@@ -1,0 +1,23 @@
+* {
+    direction: rtl;
+}
+
+.form_line input[type="checkbox"] + label::before, 
+.form_line input[type="radio"] + label::before {
+    margin-left: 10px;
+    margin-right: 0;
+}
+
+.fl_inl > .form_line {
+    border: 0!important;
+}
+
+.fl_inl > .form_line:not(:first-child), 
+.stars > label:not(:first-of-type) {
+    border-right: 1px solid #C4CFD5!important;
+}
+
+.articles > article .btn, 
+.articles > article button {
+    direction: ltr!important;
+}

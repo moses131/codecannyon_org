@@ -1,0 +1,33 @@
+.details-list > li {
+    color: #6c6c6c;
+    font-weight: 500;
+}
+
+.details-list > li:not(:last-child) {
+    margin-bottom: 5px;
+}
+
+.details-list > li.e {
+    color: #c40404;
+}
+
+.details-list > li > i {
+    width: 30px;
+    text-align: center;
+}
+
+.install-button {
+    display: flex;
+    margin-top: 30px;
+}
+
+.install-button > span {
+    background-color: #efefef;
+    padding: 5px 10px;
+    letter-spacing: 2px;
+    margin: auto 0 auto auto;
+}
+
+.big {
+    font-size: 80px;
+}

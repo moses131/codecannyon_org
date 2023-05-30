@@ -1,0 +1,680 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <title>SurveyClick - Documentation</title>
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <meta property="og:title" content="SurveyClick - Documentation" />
+    <meta property="og:description" content="" />
+    <meta name="robots" content="noindex, nofollow" />
+    <link rel="icon" type="image/png" href="assets/img/logo2.png" sizes="50x50">
+    <link href="assets/css/style.css" media="all" rel="stylesheet" />
+    <link href="assets/css/responsive.css" media="all" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Quicksand:300,500,700" rel="stylesheet">
+    </head>
+    <body>
+        <main>
+            <div class="main-wrapper">
+                <section class="breadcrumb">
+                    <div class="title">
+                        <h2>SurveyClick / <strong>Documentation</strong></h2>
+                    </div>
+                </section>
+
+                <section class="summary">
+                    <ul>
+                        <li><a href="#installation">Installation</a></li>
+                        <li><a href="#configuration">Configuration</a></li>
+                        <li style="margin-top:30px"><a href="#create_the_first">Create the first ...</a>
+                        <ul>
+                            <li><a href="#create_the_first_survey">Survey</a></li>
+                            <li><a href="#create_the_first_question">Question</a></li>
+                            <li><a href="#create_the_first_collector">Collector</a></li>
+                            <li><a href="#go_live">Go Live</a></li>
+                        </ul>
+                        </li>
+                        <li><a href="#the_survey">The survey</a>
+                        <ul>
+                            <li><a href="#survey_dashboard">Dashboard</a></li>
+                            <li><a href="#survey_responses">Responses</a></li>
+                            <li><a href="#survey_labels">Labels</a></li>
+                            <li><a href="#survey_reports">Reports</a></li>
+                            <li><a href="#survey_export_compare">Export & compare reports</a></li>
+                        </ul>
+                        </li>
+                        <li><a href="#manage_subscriptions">Manage subscription plans</a></li>
+                        <li><a href="#manage_vouchers">Manage vouchers</a></li>
+                        <li><a href="#setup_payments">Set-up the payments system</a></li>
+                        <li><a href="#advanced_question_types">Advanced question types</a>
+                        <ul>
+                            <li><a href="#advanced_external_text_field">External: Text Field</a></li>
+                        </ul>
+                        </li>
+                        <li><a href="#thank_you">"Thank you" & "Disqualification" pages</a></li>
+                        <li><a href="#default_time_language">Default time, language, money format & separator</a></li>
+                        <li><a href="#accounts_security">Accounts security</a></li>
+                        <li><a href="#manage_content">Manage content</a></li>
+                        <li><a href="#theme_options">Theme options</a></li>
+                        <li><a href="#clear_data">Delete website's old or unused data</a></li>
+                        <li><a href="#using_variables">Using variables</a></li>
+                        <li><a href="#using_shortcodes">Using shortcodes</a></li>
+                        <li><a href="#using_trackingId">Using trackingId</a></li>
+                        <li><a href="#commissions">Commissions</a></li>
+                        <li><a href="#kyp">Know your platform</a></li>
+                    </ul>
+                </section>
+
+                <section class="title" id="installation">
+                    <div class="title">
+                        <h2>Installation</h2>
+                    </div>
+                </section>
+
+                <section class="text">
+                    <p>Installation is simple and it doesn't take longer than 5 minutes. Upload the script in the directory you want to install SurveyClick. Then visit the link, and you'll see that a form will pop up. From now on, you'll follow the steps and that's it!</p>
+                    <h3>Step 1: Requirements check</h3>
+                    <div class="img">
+                        <img src="assets/img/img1.png" alt="" />
+                    </div>
+                    <p>In Step 1 you don't need to do anything. Here you'll be informed about the state of your installed software and extensions. In SurveyClick are only used official PHP extensions: mysqli, json, zip, mbstring, intl, gettext, gd. PHP version accepted: 7.3. MySQL server version 8.0.</p>
+                    
+                    <h3>Step 2: Database connection details</h3>
+                    <div class="img">
+                        <img src="assets/img/img57.png" alt="" />
+                    </div>
+                    <p>Database, user and password, host. The tables prefix is optional. If you write "myprofix_", the users table for example will become "myprefix_users" instead of just "users". The tables prefix is useful only if you want to use multiple installations in the same database.</p>
+                    
+                    <h3>Step 3: Server options & default settings</h3>
+                    <div class="img">
+                        <img src="assets/img/img58.png" alt="" />
+                    </div>
+                    <p>Note*: The following options will be saved as constants in the <i>settings.php</i> file.</p>
+                    <p>* Timezone will be used as a fallback if the visitor's country cannot be detected automatically.</p>
+                    <p>* Payments will be made in this currency. Accounts balances will be displayed in this currency.</p>
+                    <p>* Default language will be used as a fallback if the visitor's country cannot be detected automatically.</p>
+                    
+                    <h3>Step 4: Owner's account</h3>
+                    <div class="img">
+                        <img src="assets/img/img59.png" alt="" />
+                    </div>
+                    <p>Owner's account credentials. You'll be able to sign in with these details right after installation and you can start managing your new website</p>
+                
+                    <h3>Common MySQL errors</h3>
+                    <ul>
+                        <li><strong>No such file or directory</strong> - try to replace hostname <i>localhost</i> with <i>127.0.0.1</i></li>
+                    </ul>
+                </section>
+
+                <section class="title" id="configuration">
+                    <div class="title">
+                        <h2>Configuration</h2>
+                    </div>
+                </section>
+
+                <section class="text">
+                    <p>Right after installation, your website is ready so you can sign in.</p>
+                    <div class="img">
+                        <img src="assets/img/img60.png" alt="" />
+                    </div>
+
+                    <h3>Settings -> General</h3>
+                    <div class="img">
+                        <img src="assets/img/img61.png" alt="" />
+                    </div>
+                    <p>Website name, description & URL. Minimum witdraw amount for respondents. Minimum deposit amount for surveyors.</p>
+                    <p>* The default country is used only if the visitor's country cannot be detected automatically.</p>
+                    <p>* The default language is used only if the visitor's country cannot be detected automatically. If it can be detected then the default language for the visitor's country will be used. See <strong>Settings -> Countries</strong></p>
+
+                    <h3>Settings -> 3rd Party & Mail settings</h3>
+                    <p>Paypal credentials for automatically payments & Mail settings.</p>
+                    <div class="img">
+                        <img src="assets/img/img62.png" alt="" />
+                    </div>
+                    <p>After installation, you can personalize the email templates and set up the sender's name for every template.</p>
+                    <p>* You can select to use PHP mail() function or set up a SMTP server</p>
+                    
+                    <h3>Settings -> Payment plans</h3>
+                    <p>Payment plans are used for subscriptions. You can edit a plan, delete or create an offer.</p>
+                    <div class="img">
+                        <img src="assets/img/img64.png" alt="" />
+                    </div>
+
+                    <h3>Settings -> Ivoicing</h3>
+                    <p>Options for Tax %, prefixes to invoices and receipts for internal use (if needed).</p>
+                    <p>Example of "Tax label": VAT
+                    <div class="img">
+                        <img src="assets/img/img65.png" alt="" />
+                    </div>
+                    <p>* Automatically generated invoices will be numbered consecutively</p>
+                    <p>* Invoices for the survey's budget will be issued when the survey is finished or its status has been changed</p>
+
+                    <h3>Settings -> KYC Verification</h3>
+                    <p>Know Your Customers is a great tool in this business. Protect surveyors to get the answers from real verified persons</p>
+                    <p>Here you have the options to require a list of documents for each language</p>
+                    <div class="img">
+                        <img src="assets/img/img66.png" alt="" />
+                    </div>
+
+                    <h3>Settings -> Terms of use - pages</h3>
+                    <p>Select a "terms of use" page for each language</p>
+                    <div class="img">
+                        <img src="assets/img/img67.png" alt="" />
+                    </div>
+                    <p>These pages are visible in "Registration" form:</p>
+                    <div class="img">
+                        <img src="assets/img/img68.png" alt="" />
+                    </div>
+
+                    <h3>Settings -> Countries</h3>
+                    <p>The script will import all countries automatically, here you can only change the default settings for a country. Hour format, date format, timezones, money format.</p>
+                    <div class="img">
+                        <img src="assets/img/img70.png" alt="" />
+                    </div>
+
+                    <h3>Settings -> Referral</h3>
+                    <p>Here you can setup the reward system for your users (using loyalty points) for referring friends. You can give them points on these actions: when their friend register and verify the account and/or when their friend make a deposit. There is no limit to the levels.</p>
+                    <div class="img">
+                        <img src="assets/img/img71.png" alt="" />
+                    </div>
+
+                    <h3>Settings -> SEO</h3>
+                    <p>Setup meta title, description, keywords & favicon.</p>
+                    <div class="img">
+                        <img src="assets/img/img72.png" alt="" />
+                    </div>
+                </section>
+
+                <section class="title" id="create_the_first">
+                    <div class="title">
+                        <h2>Create the first ...</h2>
+                    </div>
+                </section>
+
+                <section class="text">
+                    <h3 id="create_the_first_survey">Create the first survey</h3>
+                    <div class="img">
+                        <img src="assets/img/img2.png" alt="" />
+                    </div>
+                    <p>From your menu, click on "New survey", and a new pop-up will appear. The name of the survey will not be publicly visible, it will be visible only by you and your team, in case there is one. Select the number of responses you need. If you select 20 for example, the 20th complete answer will change the status of the survey from "Live" to "Finished".</p>
+                    <p>If you are a member of a team and you want to create a personal survey, choose "Personal survey", for the other options "Share with your team" or "Share with a few members only" you should know that the survey is assigned to team's owner.</p>
+                    <div class="img">
+                        <img src="assets/img/img3.png" alt="" />
+                    </div>
+                    <p>Once the previous form is submitted, the survey will be created and visible in "My Surveys". The surveys is not ready yet, so the status will be "Request setup". We need to set up questions and at least one collector.</p>
+                    <div class="img">
+                        <img src="assets/img/img4.png" alt="" />
+                    </div>
+                    <h3 id="create_the_first_question">Create the first question</h3>
+                    <p>Questions can be added in separate steps. A step is a diferent page of questions. If your survey is empty, you can import questions from "Templates". Templates are pre made forms.</p>
+                    <div class="img">
+                        <img src="assets/img/img5.png" alt="" />
+                    </div>
+                    <p>"Name" is the name of the question that will appear on the survey form. "Info" will be visible right after the question name and it is used as a description of the question. This field is not mandatory. "Question type" is the type of the question, each type has its own options that will appear once the type is selected.</p>
+                    <p>The default question types:</p>
+                    <ol>
+                        <li>
+                            Multiple Choice
+                            <div class="img mt15">
+                                <img src="assets/img/img6.png" alt="" />
+                            </div>
+                        </li>
+                        <li>
+                            Checkboxes
+                            <div class="img mt15">
+                                <img src="assets/img/img7.png" alt="" />
+                            </div>
+                        </li>
+                        <li>
+                            Text Field
+                            <div class="img mt15">
+                                <img src="assets/img/img8.png" alt="" />
+                            </div>
+                        </li>
+                        <li>
+                            Textarea
+                            <div class="img mt15">
+                                <img src="assets/img/img9.png" alt="" />
+                            </div>
+                        </li>
+                        <li>
+                            Dropdown
+                            <div class="img mt15">
+                                <img src="assets/img/img10.png" alt="" />
+                            </div>
+                        </li>
+                        <li>
+                            Date &amp; Time
+                            <div class="img mt15">
+                                <img src="assets/img/img11.png" alt="" />
+                            </div>
+                        </li>
+                        <li>
+                            Image Choice
+                            <div class="img mt15">
+                                <img src="assets/img/img12.png" alt="" />
+                            </div>
+                        </li>
+                        <li>
+                            Contact Information
+                            <div class="img mt15">
+                                <img src="assets/img/img13.png" alt="" />
+                            </div>
+                        </li>
+                        <li>
+                            Slider
+                            <div class="img mt15">
+                                <img src="assets/img/img14.png" alt="" />
+                            </div>
+                        </li>
+                        <li>
+                            Matrix/Multiple Choice
+                            <div class="img mt15">
+                                <img src="assets/img/img15.png" alt="" />
+                            </div>
+                        </li>
+                        <li>
+                            Matrix/Rating Scale
+                            <div class="img mt15">
+                                <img src="assets/img/img16.png" alt="" />
+                            </div>
+                        </li>
+                        <li>
+                            Matrix/Dropdowns
+                            <div class="img mt15">
+                                <img src="assets/img/img17.png" alt="" />
+                            </div>
+                        </li>
+                        <li>
+                            Star Rating
+                            <div class="img mt15">
+                                <img src="assets/img/img18.png" alt="" />
+                            </div>
+                        </li>
+                        <li>
+                            Ranking
+                            <div class="img mt15">
+                                <img src="assets/img/img19.png" alt="" />
+                            </div>
+                        </li>
+                        <li>
+                            File Upload
+                            <div class="img mt15">
+                                <img src="assets/img/img20.png" alt="" />
+                            </div>
+                        </li>
+                        <li>
+                            Email
+                            <div class="img mt15">
+                                <img src="assets/img/img21.png" alt="" />
+                            </div>
+                        </li>
+                        <li>
+                            Confirmation Checkbox
+                            <div class="img mt15">
+                                <img src="assets/img/img22.png" alt="" />
+                            </div>
+                        </li>
+                        <li>
+                            Net Promoter® Score
+                            <div class="img mt15">
+                                <img src="assets/img/img23.png" alt="" />
+                            </div>
+                        </li>
+                        <li>
+                            Section Title
+                            <div class="img mt15">
+                                <img src="assets/img/img24.png" alt="" />
+                            </div>
+                        </li>
+                        <li>Advanced. External: Text Field &#8211; <a href="#advanced_external_text_field">Read more about this input</a></li>
+                    </ol>
+
+                    <h3 id="create_the_first_collector">Create the first collector</h3>
+                    <p>Collectors are a mandatory component because these are the links you use to collect answers</p>
+                    <p>There can be two types of collectors:</p>
+                    <ol>
+                        <li>Free (simple URLs that can be used on personal websites, social media profiles, etc)</li>
+                        <li>Paid (collect responses from the community)</li>
+                    </ol>
+                    <div class="img">
+                        <img src="assets/img/img31.png" alt="" />
+                    </div>
+                    <p>Once added questions and at least one collector, the survey is ready to be visible to the world</p>
+
+                    <h3 id="go_live">Go Live</h3>
+                    <p>A survey is not visible until the status is manually set to "Live". The status can be changed at any time. The status will be automatically changed to "Finished" when the last completed response reaches the number of requested responses. </p>
+                    <div class="img">
+                        <img src="assets/img/img32.png" alt="" />
+                    </div>
+                </section>
+
+                <section class="title" id="the_survey">
+                    <div class="title">
+                        <h2>The survey</h2>
+                    </div>
+                </section>
+
+                <section class="text">
+                    <p>Once clicked on one of your surveys, a new menu and many options will appear. Only some of the options will be presented below.</p>
+
+                    <h3 id="survey_dashboard">Dashboard</h3>
+                    <p>Reports can be generated and compared in the dashboard.</p>
+                    <div class="img">
+                        <img src="assets/img/img48.png" alt="" />
+                    </div>
+                    <p>Once a report is generated, another form will replace the personalized overview so reports can be compared fast, side by side.</p>
+                    <div class="img">
+                        <img src="assets/img/img49.png" alt="" />
+                    </div>
+
+                    <h3 id="survey_responses">Responses</h3>
+                    <p>In <strong>Responses</strong> you have the list of all the responses to the survey. Including responses that are not finished yet.</p>
+                    <div class="img">
+                        <img src="assets/img/img50.png" alt="" />
+                    </div>
+                    <p>You can view the responses from a particular report, or you can generate a new responses list based on the multitude of filters that can be applied.</p>
+                    <div class="img">
+                        <img src="assets/img/img51.png" alt="" />
+                    </div>
+                    <p>By far the most important tool of a survey is the filters and SurveyClick has it all! Here is a list of all filters that can be applied:</p>
+                    <ol>
+                        <li>Answers to questions</li>
+                        <li>Responses duration</li>
+                        <li>Responses period of time</li>
+                        <li>Collectors</li>
+                        <li>Countries</li>
+                        <li>Points</li>
+                        <li>Tracking ID</li>
+                        <li>Variables</li>
+                        <li>Labels</li>
+                    </ol>
+
+                    <h3 id="survey_labels">Labels</h3>
+                    <p>This feature will help you to categorize the responses. A response can be assigned to one or more labels.</p>
+                    <div class="img">
+                        <img src="assets/img/img52.png" alt="" />
+                    </div>
+
+                    <h3 id="survey_reports">Reports</h3>
+                    <p>Reports can be generated at any time and can be saved and compared with other reports at any time.</p>
+                    <div class="img">
+                        <img src="assets/img/img53.png" alt="" />
+                    </div>
+
+                    <h3 id="survey_export_compare">Export & compare reports</h3>
+                    <p>Select a report that you want to export, select the option to export the report in "Print" mode. There are three options:</p>
+                    <ol>
+                        <li><strong>Export this report</strong> - will export the current report</li>
+                        <li><strong>Export responses from this report</strong> - will not export the report but the answers from the current report</li>
+                        <li><strong>Compare and export multiple reports</strong> - will export all selected reports</li>
+                    </ol>
+                    <div class="img">
+                        <img src="assets/img/img54.png" alt="" />
+                    </div>
+                    <p>Reports in print mode will appear, before printing the report or saving it as a PDF, you can also modify all the information including question titles and responses.</p>
+                    <div class="img">
+                        <img src="assets/img/img55.png" alt="" />
+                    </div>
+                    <p>Here is the final version of the report exported as a PDF of our one-question survey example. <a href="assets/img/pdf1.pdf">Download here</a></p>
+                    <embed src="assets/img/pdf1.pdf" width="500" height="375" type="application/pdf">
+                </section>
+
+                <section class="title" id="manage_subscriptions">
+                    <div class="title">
+                        <h2>Manage subscription plans</h2>
+                    </div>
+                </section>
+
+                <section class="text">
+                    <p>Subscription plans can be managed from the owner's administration panel, from <strong>Settings - Payment plans.</strong> If you want to terminate a current payment plan, but you want current subscribers to keep the benefits until expiration, you can delete the plan and keep it in the trash until all subscriptions have expired.</p>
+                    <p>Except for the free plan, all others may accept offers. Periods of time with discounts. Accepts minimum months for a discount to be applied.</p>
+                    <div class="img">
+                        <img src="assets/img/img25.png" alt="" />
+                    </div>
+                    <p>You also have a list of all subscriptions and reports.</p>
+                </section>
+
+                <section class="title" id="manage_vouchers">
+                    <div class="title">
+                        <h2>Manage vouchers</h2>
+                    </div>
+                </section>
+
+                <section class="text">
+                    <p>Vouchers can be managed from the owner's administration panel, from <strong>Vouchers - View vouchers.</strong></p>
+                    <div class="img">
+                        <img src="assets/img/img26.png" alt="" />
+                    </div>
+                    <p>Vouchers can be applied on deposits or "Free" (without any condition). Vouchers can be used by anyone or a user. "Limit" is the number of times a voucher can be used.</p>
+                </section>
+
+                <section class="title" id="setup_payments">
+                    <div class="title">
+                        <h2>Set-up the payments system</h2>
+                    </div>
+                </section>
+
+                <section class="text">
+                    <p>PayPal can be set-up from the owner's administration panel, from <strong>Settings - 3rd party - PayPal.</strong></p>
+                    <div class="img">
+                        <img src="assets/img/img27.png" alt="" />
+                    </div>
+                    <p>Credentials can be generated at <u>https://developer.paypal.com</u></p>
+                </section>
+
+                <section class="title" id="advanced_question_types">
+                    <div class="title">
+                        <h2>Advanced question types</h2>
+                    </div>
+                </section>
+
+                <section class="text">
+                    <h3 id="advanced_external_text_field">Advanced. External: Text Field</h3>
+                    <p>All answers to this type of question will send a POST request to a provided URL including the answer to the question and the number of points until the current step. The script will read JSON and it is able to throw custom errors, add points and save variables.</p>
+                    <div class="img">
+                        <img src="assets/img/img28.png" alt="" />
+                    </div>
+                    <p>Example of request that is sent to the URL (in PHP: $_POST['value'], $_POST['points'])</p>
+                    <div class="img">
+                        <img src="assets/img/img29.png" alt="" />
+                    </div>
+                    <p>Example of answer that is read (the array must be JSON encoded)</u></p>
+                    <div class="img">
+                        <img src="assets/img/img30.png" alt="" />
+                    </div>
+                    <p>The example above will throw the error "This is a custom error", the respondent will see the error and will not be able to pass the next step of the survey.</p>
+                    <p>From the same example, if "error" is not set, 100 points will be automatically added to the survey score and will save 3 variables: Name, License and Purcahse Date.</p>
+                    <p>Variables will be saved along with the survey answers and can be used to filter the responses and generate reports.</p>
+                </section>
+
+                <section class="title" id="thank_you">
+                    <div class="title">
+                        <h2>"Thank you" & "Disqualification" pages</h2>
+                    </div>
+                </section>
+
+                <section class="text">
+                    <p>The "Thank you" page will be visible right after the survey is successfully completed. And, of course, the "Disqualification" page will be visible right after a response is disqualified.</p>
+                    <p>The pages can be found in the "Questions" section immediately after the steps.</p>
+                    <div class="img">
+                        <img src="assets/img/img33.png" alt="" />
+                    </div>
+                    <p>Editing pages is simple, each paragraph can be visible or hidden depending on the number of points.</p>
+                    <div class="img">
+                        <img src="assets/img/img34.png" alt="" />
+                    </div>
+                    <p>Shortcodes can be used. Also variables. This is an example:</p>
+                    <div class="img">
+                        <img src="assets/img/img35.png" alt="" />
+                    </div>
+                </section>
+
+                <section class="title" id="default_time_language">
+                    <div class="title">
+                        <h2>Default time, language, money format & separator</h2>
+                    </div>
+                </section>
+
+                <section class="text">
+                    <p>Timezone, date format, time format, and language are the user's preferences and can be changed and overridden by the user.</p>
+                    <p>But for non-logged users, this information should be set automatically depending on their location. The country is detected automatically. And options for each country can be set in the owner's administration panel in <strong>Settings - Countries</strong> and edit the country.</p>
+                    <div class="img">
+                        <img src="assets/img/img36.png" alt="" />
+                    </div>
+                </section>
+
+                <section class="title" id="accounts_security">
+                    <div class="title">
+                        <h2>Accounts security</h2>
+                    </div>
+                </section>
+
+                <section class="text">
+                    <p>2-Step verification is a built-in option to increase the security of all accounts. The option can be found in <strong>Settings - Security</strong> options and can be activated/deactivated at any time. By default the option is deactivated.</p>
+                    <div class="img">
+                        <img src="assets/img/img37.png" alt="" />
+                    </div>
+                    <p>If the option is activated, validation is required every single time a user is attempt to log in.</p>
+                    <div class="img">
+                        <img src="assets/img/img38.png" alt="" />
+                    </div>
+                </section>
+
+                <section class="title" id="manage_content">
+                    <div class="title">
+                        <h2>Manage content</h2>
+                    </div>
+                </section>
+
+                <section class="text">
+                    <p>Using a powerful CMS, you can manage all the content on your website easily. Easy creation of pages for all languages. Manage the content using simple blocks, for sure you'll consider it simple and intuitive.</p>
+                    <p>The system works with loyalty points.</p>
+                    <div class="img">
+                        <img src="assets/img/img40.png" alt="" />
+                    </div>
+                </section>
+
+                <section class="title" id="theme_options">
+                    <div class="title">
+                        <h2>Theme options</h2>
+                    </div>
+                </section>
+
+                <section class="text">
+                    <p>With the theme options, you can personalize the theme. Every theme may have different options and these are visible only when the theme is activated. Theme options can be found in <strong>Themes - Theme options</strong></p>
+                    <div class="img">
+                        <img src="assets/img/img41.png" alt="" />
+                    </div>
+                </section>
+
+                <section class="title" id="clear_data">
+                    <div class="title">
+                        <h2>Delete website's old or unused data</h2>
+                    </div>
+                </section>
+
+                <section class="text">
+                    <p>Some information will never be deleted until you choose to. Old information such as old chat messages can be deleted with a single click. This option is located in the main menu in <strong>Clear data</strong></p>
+                    <div class="img">
+                        <img src="assets/img/img42.png" alt="" />
+                    </div>
+                </section>
+
+                <section class="title" id="using_variables">
+                    <div class="title">
+                        <h2>Using variables</h2>
+                    </div>
+                </section>
+
+                <section class="text">
+                    <p>Variables are information that can be saved from advanced question types. Such as <a href="#advanced_external_text_field">Advanced. External: Text field</a></p>
+                    <p>For example, you are a software developer and you request in one of the advanced fields the license key. The answer containing the license key will be sent to your app in order to validate it. If it is right, you can save variables such as "purchased product name" (PRODUCT_NAME).</p>
+                    <p>You can validate the answer and save some variables. You can throw an error. But you also are able to not throw an error and let the respondent continue the survey without saving any variables.</p>
+                    <p>Saved variables can be used to personalize "Thank you" and "Disqualification" pages in this format: {{?PRODUCT_NAME}}, {{-PRODUCT_NAME}}, {{+PRODUCT_NAME}}</p>
+                    <p>{{?PRODUCT_NAME}} will display the variable value and an empty value in case it is not set</p>
+                    <p>{{-PRODUCT_NAME}} will hide the whole block if the variable is not set</p>
+                    <p>{{+PRODUCT_NAME}} will hide the whole block if the variable is set</p>
+                    <div class="img">
+                        <img src="assets/img/img43.png" alt="" />
+                    </div>
+                    <p>* Variables will be visible as responses and can be used in filters and reports.</p>
+                </section>
+
+                <section class="title" id="using_shortcodes">
+                    <div class="title">
+                        <h2>Using shortcodes</h2>
+                    </div>
+                </section>
+
+                <section class="text">
+                    <p>You can pass answers from a step to another using shortcodes. For example: [199] will return the result of the question with ID 199.</p>
+                    <p>Shortcodes can be used in question's title, question's info and "Thank you" and "Disqualification" pages.</p>
+                    <p>Example. Step 1:</p>
+                    <div class="img">
+                        <img src="assets/img/img44.png" alt="" />
+                    </div>
+                    <p>Step 2:</p>
+                    <div class="img">
+                        <img src="assets/img/img45.png" alt="" />
+                    </div>
+                    <p>Other shortcodes: [points] stands for the total number of points</p>
+                </section>
+
+                <section class="title" id="using_trackingId">
+                    <div class="title">
+                        <h2>Using trackingId</h2>
+                    </div>
+                </section>
+
+                <section class="text">
+                    <p>trackingId is a GET parameter that can be passed to a collector URL to save more information about the respondent. Like any other parameter, trackingId can be changed in browser.</p>
+                    <p>Example: <u>https://example.org/r/GWXM28?trackingId=test</u></p>
+                    <p>We know that for some purposes (like saving an order ID) you need trackingId that cannot be changed or removed. When edit a collector in "Encryption" is a private key that can be used among the trackingId parameter to create a public key. The private key should be used in your app, and not shared with anyone.</p>
+                    <div class="img">
+                        <img src="assets/img/img46.png" alt="" />
+                    </div>
+                    <p>A public key is a MD5 hash that contains encryption key and trackingId. One after another without space.</p>
+                    <p>Example in PHP: md5( 'a0cafa5ee25052bb7a29af248d3f3cd5<span style="color:red;">test</span>' )</p>
+                    <p>The function will return the public key: 0c2b3f7a58da01d503c2c8ccc7e0e5e5</p>
+                    <p>So we have now the final URL for this collector: <u>https://example.org/r/GWXM28?trackingId=test&key=0c2b3f7a58da01d503c2c8ccc7e0e5e5</u> and this will be the message if any of the parameters are changed:</p>
+                    <div class="img">
+                        <img src="assets/img/img47.png" alt="" />
+                    </div>
+                    <p>* The trackingId value will be saved and can be used in filters and reports.</p>
+                </section>
+
+                <section class="title" id="commissions">
+                    <div class="title">
+                        <h2>Commissions</h2>
+                    </div>
+                </section>
+
+                <section class="text">
+                    <p>Commissions are paid by surveyors that chose to collect responses from community respondents. Respondents will see the price with the commission deducted. (the final commission they will get for their response)</p>
+                    <p>The commission can be set from owner's administration panel, from <strong>Settings - Prices</strong> (Commission for responses)</p>
+                    <div class="img">
+                        <img src="assets/img/img56.png" alt="" />
+                    </div>
+                    <p>The commission collected is can be visible in reports and transactions as "website commission"</p>
+                </section>
+
+                <section class="title" id="kyp">
+                    <div class="title">
+                        <h2>Know your platform</h2>
+                    </div>
+                </section>
+
+                <section class="text">
+                    <p>* Users are allowed to change their country once every 30 days (by default).</p>
+                    <p>* Credits added to the balance from vouchers are saved as 'bonus credit'. Bonus credit cannot be withdrawn. The commissions are paid from credit first, bonus after.</p>
+                </section>
+            </div>
+        </main>
+
+        <footer>
+            <script src="assets/js/functions.js"></script>
+        </footer>
+    </body>
+</html>

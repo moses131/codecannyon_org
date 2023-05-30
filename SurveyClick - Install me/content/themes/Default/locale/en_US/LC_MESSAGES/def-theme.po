@@ -1,0 +1,399 @@
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n!=1 && n%100>=1 && n%100<=19) ? 1 : 2);\n"
+"X-Generator: Poedit 3.1.1\n"
+
+msgid "Not found"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Read more"
+msgstr ""
+
+msgid "~ %s min."
+msgstr ""
+
+msgid "FAQs"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Choose your language"
+msgstr ""
+
+msgid "View questions"
+msgstr ""
+
+msgid "New question"
+msgstr ""
+
+msgid "Edit question"
+msgstr ""
+
+msgid "Show on homepage"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Blog"
+msgstr ""
+
+msgid "View posts"
+msgstr ""
+
+msgid "New post"
+msgstr ""
+
+msgid "Edit post"
+msgstr ""
+
+msgid "Thumbnail"
+msgstr ""
+
+msgid "Reading duration"
+msgstr ""
+
+msgid "Helpdesk"
+msgstr ""
+
+msgid "Excerpt"
+msgstr ""
+
+msgid "Help label"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Write here ..."
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Text intent"
+msgstr ""
+
+msgid "Unset"
+msgstr ""
+
+msgid "First paragraph"
+msgstr ""
+
+msgid "All paragraphs"
+msgstr ""
+
+msgid "Text size"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Big"
+msgstr ""
+
+msgid "Text block"
+msgstr ""
+
+msgid "Front page"
+msgstr ""
+
+msgid "Hero section title"
+msgstr ""
+
+msgid "Build beautiful surveys."
+msgstr ""
+
+msgid "Hero section highlights"
+msgstr ""
+
+msgid "Words separated by a comma"
+msgstr ""
+
+msgid "Easy, Fast, Professional"
+msgstr ""
+
+msgid "Click me"
+msgstr ""
+
+msgid "https:// ..."
+msgstr ""
+
+msgid "Sections"
+msgstr ""
+
+msgid "Add new section"
+msgstr ""
+
+msgid "New section"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Text boxes"
+msgstr ""
+
+msgid "Add new box"
+msgstr ""
+
+msgid "New box"
+msgstr ""
+
+msgid "Link name"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "Call to action box"
+msgstr ""
+
+msgid "Call to action link"
+msgstr ""
+
+msgid "This link appears after the hero section"
+msgstr ""
+
+msgid "Respondents page"
+msgstr ""
+
+msgid "Pricing page"
+msgstr ""
+
+msgid "Personal plans sections"
+msgstr ""
+
+msgid "Team plans sections"
+msgstr ""
+
+msgid "FAQs page"
+msgstr ""
+
+msgid "Logo"
+msgstr ""
+
+msgid "Logo on fixed menu"
+msgstr ""
+
+msgid "Main menu"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "For respondents"
+msgstr ""
+
+msgid "Pricing"
+msgstr ""
+
+msgid "FAQ"
+msgstr ""
+
+msgid "More"
+msgstr ""
+
+msgid "Templates"
+msgstr ""
+
+msgid "Examples"
+msgstr ""
+
+msgid "Contact us"
+msgstr ""
+
+msgid "Footer menu"
+msgstr ""
+
+msgid "Sign in"
+msgstr ""
+
+msgid "Sign up"
+msgstr ""
+
+msgid "Professional., Easy., Fast."
+msgstr ""
+
+msgid "Free"
+msgstr ""
+
+msgid "Building beautiful surveys"
+msgstr ""
+
+msgid "You can choose from a vast variety of inputs in order to create even the most complex surveys. Or you can choose from one of our pre-made templates. Either way, your success is guaranteed, because if you care about the stats, there is no other option."
+msgstr ""
+
+msgid "Collect responses in style"
+msgstr ""
+
+msgid "When you consider that your survey is ready, create your first collector and start collecting responses right away. Publish the link on your website, and social profiles, or send it via email. If this is not your style, collect responses from our members."
+msgstr ""
+
+msgid "Analize responses like a PRO"
+msgstr ""
+
+msgid "Create reports, save and compare through time. Know the evolution of your product or service and act. Collect responses and learn what your customers need."
+msgstr ""
+
+msgid "Work with your team"
+msgstr ""
+
+msgid "Invite the whole team to join you and analyze everything together. All members of your team can create their own reports, and share them with other members of the team."
+msgstr ""
+
+msgid "Free, no credit card required"
+msgstr ""
+
+msgid "Our services are absolutely free and you can start immediately without any credit card required. No trial version so you can upgrade when you want and only if you need."
+msgstr ""
+
+msgid "Amazing tools, no restrictions"
+msgstr ""
+
+msgid "All question types are free to use. No restrictions. Join us today and start with a free account without any restrictions.  Collect responses free from your sources."
+msgstr ""
+
+msgid "With the team is easier"
+msgstr ""
+
+msgid "Your team, your account! All surveys are associated with your account, so you don"
+msgstr ""
+
+msgid "Keep in touch"
+msgstr ""
+
+msgid "Each member of your team can create their own reports. They can share the reports with one member of the team or with everyone. In-app chat with your team."
+msgstr ""
+
+msgid "Work offline?"
+msgstr ""
+
+msgid "Of course you can use your online research to the office. Print a report, print a comparison between reports, and analyze with your team offline"
+msgstr ""
+
+msgid "Create amazing surveys"
+msgstr ""
+
+msgid "Sign up today and start your first survey with absolutely no charges. No credit card required."
+msgstr ""
+
+msgid "Join today"
+msgstr ""
+
+msgid "Respond and make real money"
+msgstr ""
+
+msgid "Respond to surveys and get commissions. Real money and/or loyalty points."
+msgstr ""
+
+msgid "Prev"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Frequently asked questions"
+msgstr ""
+
+msgid "Plans for you"
+msgstr ""
+
+msgid "%s%% OFF"
+msgstr ""
+
+msgid "/ mo."
+msgstr ""
+
+msgid "<strong>%s</strong> surveys"
+msgstr ""
+
+msgid "unlimited"
+msgstr ""
+
+msgid "<strong>%s</strong> responses per survey"
+msgstr ""
+
+msgid "<strong>%s</strong> questions"
+msgstr ""
+
+msgid "<strong>%s</strong> collector"
+msgid_plural "<strong>%s</strong> collectors"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "<strong>%s</strong> space"
+msgstr ""
+
+msgid "No credit card required"
+msgstr ""
+
+msgid "Exires: <strong>%s</strong>"
+msgstr ""
+
+msgid "Discount available for %s+ month"
+msgid_plural "Discount available for %s+ months"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Price without discount: %s"
+msgstr ""
+
+msgid "Plans for teams"
+msgstr ""
+
+msgid "<strong>%s</strong> team members"
+msgstr ""
+
+msgid "Respond and make money"
+msgstr ""
+
+msgid "Respond to surveys and make money, it is simple as that. You can also gain loyalty points and exchange them for nice gifts in the loyalty rewards shop."
+msgstr ""
+
+msgid "When you want, how you want"
+msgstr ""
+
+msgid "Respond to surveys when you want on any device. Just visit our website, sign in and that is all. You choose the surveys you want to respond. Easy! "
+msgstr ""
+
+msgid "Invite friends, get loyalty points"
+msgstr ""
+
+msgid "Our website is free. If your friends decide to upgrade their accounts, you get points for every month they purchase. You also get points when they register and verify their accounts."
+msgstr ""
+
+msgid "Our blog"
+msgstr ""
+
+msgid "Get started"
+msgstr ""
+
+msgid "Call Us"
+msgstr ""
+
+msgid "Email Us"
+msgstr ""
+
+msgid "White label"
+msgstr ""

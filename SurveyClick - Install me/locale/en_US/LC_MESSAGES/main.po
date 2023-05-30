@@ -1,0 +1,4214 @@
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n!=1 && n%100>=1 && n%100<=19) ? 1 : 2);\n"
+"X-Generator: Poedit 3.1.1\n"
+
+msgid "Password"
+msgstr ""
+
+msgid "Go"
+msgstr ""
+
+msgid "This survey is not available"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Please login"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "or"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "Please complete your profile"
+msgstr ""
+
+msgid "Manage your account"
+msgstr ""
+
+msgid "Response time has expired"
+msgstr ""
+
+msgid "Restart survey"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Agree & take the survey"
+msgstr ""
+
+msgid "Start survey"
+msgstr ""
+
+msgid "Error 404"
+msgstr ""
+
+msgid "Your access has been temporary blocked. You'll be able to access the service again on <strong>%s</strong>"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Points"
+msgstr ""
+
+msgid "Response time"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Tracking id"
+msgstr ""
+
+msgid "Variables"
+msgstr ""
+
+msgid "Print reports"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "When you print this page, empty title, empty descriptions, and options will be hidden"
+msgstr ""
+
+msgid "Chart type"
+msgstr ""
+
+msgid "Pie 3D"
+msgstr ""
+
+msgid "Pie"
+msgstr ""
+
+msgid "Donut"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Background color"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Color %s"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Response #%s"
+msgstr ""
+
+msgid "Duration"
+msgstr ""
+
+msgid "Labels"
+msgstr ""
+
+msgid "Tracking Id"
+msgstr ""
+
+msgid "View invoice"
+msgstr ""
+
+msgid "Invoice"
+msgstr ""
+
+msgid "From"
+msgstr ""
+
+msgid "Invoice #"
+msgstr ""
+
+msgid "Invoice date"
+msgstr ""
+
+msgid "Bill to"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Qty"
+msgstr ""
+
+msgid "Unit price"
+msgstr ""
+
+msgid "Amount"
+msgstr ""
+
+msgid "Subtotal"
+msgstr ""
+
+msgid "TAX"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "View receipt"
+msgstr ""
+
+msgid "Receipt"
+msgstr ""
+
+msgid "Receipt #"
+msgstr ""
+
+msgid "Receipt date"
+msgstr ""
+
+msgid "Manage subscriptions"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Date &darr;"
+msgstr ""
+
+msgid "Date &uarr;"
+msgstr ""
+
+msgid "Order by"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Budget"
+msgstr ""
+
+msgid "Favorites"
+msgstr ""
+
+msgid "Survey"
+msgstr ""
+
+msgid "Commission"
+msgstr ""
+
+msgid "Saved"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Surveyors"
+msgstr ""
+
+msgid "Team members"
+msgstr ""
+
+msgid "Banned"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Last action &darr;"
+msgstr ""
+
+msgid "Last action &uarr;"
+msgstr ""
+
+msgid "Add user"
+msgstr ""
+
+msgid "ID"
+msgstr ""
+
+msgid "Info"
+msgstr ""
+
+msgid "Balance"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "Name &darr;"
+msgstr ""
+
+msgid "Name &uarr;"
+msgstr ""
+
+msgid "Add category"
+msgstr ""
+
+msgid "Edit menus"
+msgstr ""
+
+msgid "Add new"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Reset menu"
+msgstr ""
+
+msgid "Install theme"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "Themes"
+msgstr ""
+
+msgid "Install plugin"
+msgstr ""
+
+msgid "Plugins"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Expired"
+msgstr ""
+
+msgid "Expiration"
+msgstr ""
+
+msgid "Add voucher"
+msgstr ""
+
+msgid "Code"
+msgstr ""
+
+msgid "Applying"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "Limit"
+msgstr ""
+
+msgid "Vouchers"
+msgstr ""
+
+msgid "Write here"
+msgstr ""
+
+msgid "Load more"
+msgstr ""
+
+msgid "Latest news"
+msgstr ""
+
+msgid "Pending responses"
+msgstr ""
+
+msgid "Any"
+msgstr ""
+
+msgid "Plan"
+msgstr ""
+
+msgid "Last renew &darr;"
+msgstr ""
+
+msgid "Last renew &uarr;"
+msgstr ""
+
+msgid "Expiration &darr;"
+msgstr ""
+
+msgid "Expiration &uarr;"
+msgstr ""
+
+msgid "Add subscription"
+msgstr ""
+
+msgid "Auto-renew"
+msgstr ""
+
+msgid "Last renew"
+msgstr ""
+
+msgid "Subscriptions"
+msgstr ""
+
+msgid "Owner"
+msgstr ""
+
+msgid "Members"
+msgstr ""
+
+msgid "Teams"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Admin actions"
+msgstr ""
+
+msgid "KYC Verification"
+msgstr ""
+
+msgid "Shop categories"
+msgstr ""
+
+msgid "Add item"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Stock"
+msgstr ""
+
+msgid "Purchases"
+msgstr ""
+
+msgid "Shop items"
+msgstr ""
+
+msgid "Approved"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Canceled"
+msgstr ""
+
+msgid "Shop orders"
+msgstr ""
+
+msgid "Finished"
+msgstr ""
+
+msgid "My responses"
+msgstr ""
+
+msgid "<span>You have</span><span>%s</span>"
+msgstr ""
+
+msgid "Cart"
+msgstr ""
+
+msgid "Shop"
+msgstr ""
+
+msgid "My orders"
+msgstr ""
+
+msgid "Respond"
+msgstr ""
+
+msgid "Continue"
+msgstr ""
+
+msgid "Oops! No surveys"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Questions"
+msgstr ""
+
+msgid "Responses"
+msgstr ""
+
+msgid "Collaborators"
+msgstr ""
+
+msgid "Approve"
+msgstr ""
+
+msgid "Reject"
+msgstr ""
+
+msgid "Change status"
+msgstr ""
+
+msgid "Complete"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Oops! No responses"
+msgstr ""
+
+msgid "%s m"
+msgstr ""
+
+msgid "%s s"
+msgstr ""
+
+msgid "Currently, you only see the answers from a report"
+msgstr ""
+
+msgid "View report"
+msgstr ""
+
+msgid "View responses"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "Oops! No reports"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Oops! No payouts"
+msgstr ""
+
+msgid "Oops! No transactions"
+msgstr ""
+
+msgid "Change password"
+msgstr ""
+
+msgid "Unban"
+msgstr ""
+
+msgid "Ban"
+msgstr ""
+
+msgid "Send alert"
+msgstr ""
+
+msgid "Actions history"
+msgstr ""
+
+msgid "Actions done"
+msgstr ""
+
+msgid "Oops! No categories"
+msgstr ""
+
+msgid "Oops! No pages"
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+msgid "Deactivate"
+msgstr ""
+
+msgid "Oops! No plugins"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Oops! No subscriptions"
+msgstr ""
+
+msgid "Oops! No teams"
+msgstr ""
+
+msgid "Oops! No items"
+msgstr ""
+
+msgid "Oops! No orders"
+msgstr ""
+
+msgid "Oops! No invoices"
+msgstr ""
+
+msgid "Total subscriptions"
+msgstr ""
+
+msgid "Active subscriptions"
+msgstr ""
+
+msgid "Ready for auto-renew"
+msgstr ""
+
+msgid "Will expire in the next 7 days"
+msgstr ""
+
+msgid "Notify"
+msgstr ""
+
+msgid "Have expired"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Oops! No receipts"
+msgstr ""
+
+msgid "Oops! No countries"
+msgstr ""
+
+msgid "Free"
+msgstr ""
+
+msgid "Deposit"
+msgstr ""
+
+msgid "Unl."
+msgstr ""
+
+msgid "Available"
+msgstr ""
+
+msgid "Never"
+msgstr ""
+
+msgid "Oops! No vouchers"
+msgstr ""
+
+msgid "Oops! No favorites"
+msgstr ""
+
+msgid "Oops! No saved surveys"
+msgstr ""
+
+msgid "Oops! No actions"
+msgstr ""
+
+msgid "Oops! No intents"
+msgstr ""
+
+msgid "Oops! No results"
+msgstr ""
+
+msgid "Eargnins"
+msgstr ""
+
+msgid "Commissions"
+msgstr ""
+
+msgid "Surveyor"
+msgstr ""
+
+msgid "Verified"
+msgstr ""
+
+msgid "upgrade"
+msgstr ""
+
+msgid "Add country"
+msgstr ""
+
+msgid "Countries"
+msgstr ""
+
+msgid "Earnings today"
+msgstr ""
+
+msgid "Earnings this week"
+msgstr ""
+
+msgid "Earnings this month"
+msgstr ""
+
+msgid "Responses this month"
+msgstr ""
+
+msgid "Loyalty stars"
+msgstr ""
+
+msgid "Welcome <strong>%s</strong>"
+msgstr ""
+
+msgid "verify your account"
+msgstr ""
+
+msgid "Last activity"
+msgstr ""
+
+msgid "Nothing yet"
+msgstr ""
+
+msgid "Your profile is incomplete, please update your profile"
+msgstr ""
+
+msgid "Edit your profile"
+msgstr ""
+
+msgid "Please verify your email address"
+msgstr ""
+
+msgid "Verify your email address"
+msgstr ""
+
+msgid "Please verify your identity. This prevent surveyors from getting fake responses."
+msgstr ""
+
+msgid "Verify your identity"
+msgstr ""
+
+msgid "Hey! You have responses not finished yet"
+msgstr ""
+
+msgid "My pending responses"
+msgstr ""
+
+msgid "To-dos"
+msgstr ""
+
+msgid "Alerts"
+msgstr ""
+
+msgid "No alerts"
+msgstr ""
+
+msgid "Responses today"
+msgstr ""
+
+msgid "Responses yesterday"
+msgstr ""
+
+msgid "Responses this week"
+msgstr ""
+
+msgid "Active surveys"
+msgstr ""
+
+msgid "remove limits"
+msgstr ""
+
+msgid "unlimited"
+msgstr ""
+
+msgid "New survey"
+msgstr ""
+
+msgid "Your plan has expired, please extend your subscription as fast as possible or you will lose all plan benefits"
+msgstr ""
+
+msgid "View your plan"
+msgstr ""
+
+msgid "Your plan exires soon"
+msgstr ""
+
+msgid "Members today"
+msgstr ""
+
+msgid "Members this week"
+msgstr ""
+
+msgid "Surveys today"
+msgstr ""
+
+msgid "Surveys this week"
+msgstr ""
+
+msgid "Today"
+msgstr ""
+
+msgid "This week"
+msgstr ""
+
+msgid "This month"
+msgstr ""
+
+msgid "Your time: %s, system: <strong>%s</strong>"
+msgstr ""
+
+msgid "Version: <strong>%s</strong>"
+msgstr ""
+
+msgid "Number"
+msgstr ""
+
+msgid "Invoices"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "My zone"
+msgstr ""
+
+msgid "Find surveys"
+msgstr ""
+
+msgid "Awaiting completion"
+msgstr ""
+
+msgid "Earn stars"
+msgstr ""
+
+msgid "Invite a friend"
+msgstr ""
+
+msgid "Transactions"
+msgstr ""
+
+msgid "Payouts"
+msgstr ""
+
+msgid "Reportings"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Edit profile"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Payout options"
+msgstr ""
+
+msgid "Privacy options"
+msgstr ""
+
+msgid "Security options"
+msgstr ""
+
+msgid "My surveys"
+msgstr ""
+
+msgid "My team"
+msgstr ""
+
+msgid "Responses & commissions"
+msgstr ""
+
+msgid "Invoicing"
+msgstr ""
+
+msgid "Receipts"
+msgstr ""
+
+msgid "Create a team"
+msgstr ""
+
+msgid "My teams"
+msgstr ""
+
+msgid "Room"
+msgstr ""
+
+msgid "Invite"
+msgstr ""
+
+msgid "Change team & more"
+msgstr ""
+
+msgid "Edit team"
+msgstr ""
+
+msgid "Invites sent"
+msgstr ""
+
+msgid "Change team"
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "Surveys"
+msgstr ""
+
+msgid "People"
+msgstr ""
+
+msgid "View vouchers"
+msgstr ""
+
+msgid "Loyalty shop"
+msgstr ""
+
+msgid "Pending orders"
+msgstr ""
+
+msgid "Orders"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Items"
+msgstr ""
+
+msgid "Menus"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "View categories"
+msgstr ""
+
+msgid "Pages"
+msgstr ""
+
+msgid "View pages"
+msgstr ""
+
+msgid "Add page"
+msgstr ""
+
+msgid "New user"
+msgstr ""
+
+msgid "Website commissions"
+msgstr ""
+
+msgid "Deposits"
+msgstr ""
+
+msgid "View themes"
+msgstr ""
+
+msgid "View plugins"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "3rd party"
+msgstr ""
+
+msgid "PayPal"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Prices"
+msgstr ""
+
+msgid "Security"
+msgstr ""
+
+msgid "Payment plans"
+msgstr ""
+
+msgid "Terms of use pages"
+msgstr ""
+
+msgid "Referral"
+msgstr ""
+
+msgid "SEO"
+msgstr ""
+
+msgid "Logs & actions"
+msgstr ""
+
+msgid "Latest actions"
+msgstr ""
+
+msgid "Clear data"
+msgstr ""
+
+msgid "Withdraw"
+msgstr ""
+
+msgid "Create surveys"
+msgstr ""
+
+msgid "Switch to"
+msgstr ""
+
+msgid "Sign out"
+msgstr ""
+
+msgid "Page title"
+msgstr ""
+
+msgid "Slug"
+msgstr ""
+
+msgid "Template"
+msgstr ""
+
+msgid "Thumbnail"
+msgstr ""
+
+msgid "Meta tags"
+msgstr ""
+
+msgid "Custom meta tags"
+msgstr ""
+
+msgid "Keywords"
+msgstr ""
+
+msgid "Method"
+msgstr ""
+
+msgid "Questions per survey"
+msgstr ""
+
+msgid "Collectors"
+msgstr ""
+
+msgid "Available space"
+msgstr ""
+
+msgid "Reports"
+msgstr ""
+
+msgid "Unlimited"
+msgstr ""
+
+msgid "Remove our brand"
+msgstr ""
+
+msgid "Responses per survey"
+msgstr ""
+
+msgid "Unlimited filters"
+msgstr ""
+
+msgid "File upload"
+msgstr ""
+
+msgid "Advanced fields"
+msgstr ""
+
+msgid "Share reports"
+msgstr ""
+
+msgid "Team chat"
+msgstr ""
+
+msgid "%s OFF"
+msgstr ""
+
+msgid "*per month"
+msgstr ""
+
+msgid "Subscribe"
+msgstr ""
+
+msgid "Detractor"
+msgstr ""
+
+msgid "Passive"
+msgstr ""
+
+msgid "Promoter"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "3D"
+msgstr ""
+
+msgid "Promoters"
+msgstr ""
+
+msgid "Passives"
+msgstr ""
+
+msgid "Detractors"
+msgstr ""
+
+msgid "%s-star"
+msgstr ""
+
+msgid "%s out of %s votes"
+msgstr ""
+
+msgid "Min"
+msgstr ""
+
+msgid "Max"
+msgstr ""
+
+msgid "From "
+msgstr ""
+
+msgid "To"
+msgstr ""
+
+msgid "Word/phrase"
+msgstr ""
+
+msgid "Exact word/phrase"
+msgstr ""
+
+msgid "Find anywhere"
+msgstr ""
+
+msgid "This type is not supported for filtering results"
+msgstr ""
+
+msgid "Rating"
+msgstr ""
+
+msgid "Average %s"
+msgstr ""
+
+msgid "Earnings"
+msgstr ""
+
+msgid "Yesterday"
+msgstr ""
+
+msgid "Last week"
+msgstr ""
+
+msgid "Last month"
+msgstr ""
+
+msgid "Commissions paid"
+msgstr ""
+
+msgid "Customize your dashboard"
+msgstr ""
+
+msgid "Customize"
+msgstr ""
+
+msgid "Saved reports"
+msgstr ""
+
+msgid "Finished & awaiting approval"
+msgstr ""
+
+msgid "In progress"
+msgstr ""
+
+msgid "Rejected"
+msgstr ""
+
+msgid "Report"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+msgid "Checked"
+msgstr ""
+
+msgid "Not checked"
+msgstr ""
+
+msgid "Geographic"
+msgstr ""
+
+msgid "No responses yet"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Statistics"
+msgstr ""
+
+msgid "Approved responses"
+msgstr ""
+
+msgid "Rejected responses"
+msgstr ""
+
+msgid "Abandoned responses"
+msgstr ""
+
+msgid "Approval rate"
+msgstr ""
+
+msgid "Rejection rate"
+msgstr ""
+
+msgid "Abandon rate"
+msgstr ""
+
+msgid "Average duration"
+msgstr ""
+
+msgid "My report"
+msgstr ""
+
+msgid "View a saved report"
+msgstr ""
+
+msgid "New response"
+msgstr ""
+
+msgid "New label"
+msgstr ""
+
+msgid "Manage"
+msgstr ""
+
+msgid "Edit & settings"
+msgstr ""
+
+msgid "Terms of use"
+msgstr ""
+
+msgid "Personalize"
+msgstr ""
+
+msgid "Logo"
+msgstr ""
+
+msgid "Texts & messages"
+msgstr ""
+
+msgid "Commission &darr;"
+msgstr ""
+
+msgid "Commission &uarr;"
+msgstr ""
+
+msgid "Live"
+msgstr ""
+
+msgid "Paused"
+msgstr ""
+
+msgid "Waiting approval"
+msgstr ""
+
+msgid "Require setup"
+msgstr ""
+
+msgid "Last response &darr;"
+msgstr ""
+
+msgid "Last response &uarr;"
+msgstr ""
+
+msgid "Pending deletion"
+msgstr ""
+
+msgid "Not billed"
+msgstr ""
+
+msgid "Withdrawn"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Returned budget"
+msgstr ""
+
+msgid "Survey budget"
+msgstr ""
+
+msgid "Subscription"
+msgstr ""
+
+msgid "Voucher"
+msgstr ""
+
+msgid "Completed"
+msgstr ""
+
+msgid "Website commission"
+msgstr ""
+
+msgid "Added"
+msgstr ""
+
+msgid "Edit user"
+msgstr ""
+
+msgid "Ban user"
+msgstr ""
+
+msgid "User balance"
+msgstr ""
+
+msgid "Referred by"
+msgstr ""
+
+msgid "Referred"
+msgstr ""
+
+msgid "%s members"
+msgstr ""
+
+msgid "Last action"
+msgstr ""
+
+msgid "Active plan"
+msgstr ""
+
+msgid "Profile edited"
+msgstr ""
+
+msgid "Alert sent"
+msgstr ""
+
+msgid "Password changed successfully"
+msgstr ""
+
+msgid "Updated"
+msgstr ""
+
+msgid "[edit] %s"
+msgstr ""
+
+msgid "Team edited"
+msgstr ""
+
+msgid "Document"
+msgstr ""
+
+msgid "Open in a new tab"
+msgstr ""
+
+msgid "Selfie"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Verification request"
+msgstr ""
+
+msgid "Summary"
+msgstr ""
+
+msgid "Item"
+msgstr ""
+
+msgid "Quantity"
+msgstr ""
+
+msgid "Stars"
+msgstr ""
+
+msgid "Paypal address"
+msgstr ""
+
+msgid "View order"
+msgstr ""
+
+msgid "Checkout"
+msgstr ""
+
+msgid "Your cart is empty"
+msgstr ""
+
+msgid "Send order"
+msgstr ""
+
+msgid "Error!"
+msgstr ""
+
+msgid "Insufficient loyalty points"
+msgstr ""
+
+msgid "All done!"
+msgstr ""
+
+msgid "Do you have a voucher?"
+msgstr ""
+
+msgid "Voucher code"
+msgstr ""
+
+msgid "Expiration date"
+msgstr ""
+
+msgid "Reedem"
+msgstr ""
+
+msgid "%s if you are not redirect automaticaly."
+msgstr ""
+
+msgid "Click here"
+msgstr ""
+
+msgid "Upgrade to %s"
+msgstr ""
+
+msgid "Extend subscription"
+msgstr ""
+
+msgid "Downgrade to %s"
+msgstr ""
+
+msgid "Your request has been sent"
+msgstr ""
+
+msgid "Become a surveyor"
+msgstr ""
+
+msgid "Change"
+msgstr ""
+
+msgid "You have no team or invites"
+msgstr ""
+
+msgid "Invite your friends using this URL:"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "You'll get loyalty stars!"
+msgstr ""
+
+msgid "For every verified friend you invite"
+msgstr ""
+
+msgid "Earn more"
+msgstr ""
+
+msgid "Level"
+msgstr ""
+
+msgid "For each upgrade of your friend"
+msgstr ""
+
+msgid "Extend"
+msgstr ""
+
+msgid "Auto-renewal"
+msgstr ""
+
+msgid "view plans"
+msgstr ""
+
+msgid "cancel subscription"
+msgstr ""
+
+msgid "My subscription"
+msgstr ""
+
+msgid "Your subscription is active and expires on %s. If you cancel it, all benefits will be lost. In case you don't want to continue the subscription, you can disable 'auto-renewal"
+msgstr ""
+
+msgid "Cancel subscription now"
+msgstr ""
+
+msgid "Cancel subscription"
+msgstr ""
+
+msgid "You don't have a plan for teams"
+msgstr ""
+
+msgid "Your request is pending"
+msgstr ""
+
+msgid "Options saved"
+msgstr ""
+
+msgid "We will review your request as soon as possible"
+msgstr ""
+
+msgid "Invitation accepted"
+msgstr ""
+
+msgid "Invitation rejected"
+msgstr ""
+
+msgid "Paypal"
+msgstr ""
+
+msgid "Email settings"
+msgstr ""
+
+msgid "Know Your Customers"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "New offer"
+msgstr ""
+
+msgid "Starts"
+msgstr ""
+
+msgid "Expires"
+msgstr ""
+
+msgid "Never expires"
+msgstr ""
+
+msgid "New plan"
+msgstr ""
+
+msgid "Deleted plans"
+msgstr ""
+
+msgid "Restore"
+msgstr ""
+
+msgid "There are no deleted plans"
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+msgid "SEO Settings"
+msgstr ""
+
+msgid "Add plan"
+msgstr ""
+
+msgid "Edit plan"
+msgstr ""
+
+msgid "New offer for %s"
+msgstr ""
+
+msgid "Edit offer"
+msgstr ""
+
+msgid "Link type"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Are you sure?"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Plan added"
+msgstr ""
+
+msgid "Plan edited"
+msgstr ""
+
+msgid "Offer added"
+msgstr ""
+
+msgid "Offer edited"
+msgstr ""
+
+msgid "Website cleaned"
+msgstr ""
+
+msgid "Notifications sent"
+msgstr ""
+
+msgid "Expired subscriptions removed"
+msgstr ""
+
+msgid "Subscriptions have been automatically renewed"
+msgstr ""
+
+msgid "No information"
+msgstr ""
+
+msgid "Requires PHP Version"
+msgstr ""
+
+msgid "Info: %s"
+msgstr ""
+
+msgid "All files inside the directory will be permanently deleted."
+msgstr ""
+
+msgid "I understand"
+msgstr ""
+
+msgid "Delete: %s"
+msgstr ""
+
+msgid "Edit voucher"
+msgstr ""
+
+msgid "Edit subscription"
+msgstr ""
+
+msgid "Edit country"
+msgstr ""
+
+msgid "Remove expired subscriptions"
+msgstr ""
+
+msgid "Auto-renew subscriptions"
+msgstr ""
+
+msgid "Category added"
+msgstr ""
+
+msgid "Category edited"
+msgstr ""
+
+msgid "Page added"
+msgstr ""
+
+msgid "Page edited"
+msgstr ""
+
+msgid "Voucher added"
+msgstr ""
+
+msgid "Voucher edited"
+msgstr ""
+
+msgid "Subscription added"
+msgstr ""
+
+msgid "Subscription edited"
+msgstr ""
+
+msgid "Country added"
+msgstr ""
+
+msgid "Country edited"
+msgstr ""
+
+msgid "Transaction info"
+msgstr ""
+
+msgid "Edit survey"
+msgstr ""
+
+msgid "This option is available for survey owner only"
+msgstr ""
+
+msgid "Step"
+msgstr ""
+
+msgid "Add question"
+msgstr ""
+
+msgid "Use a template"
+msgstr ""
+
+msgid "More settings"
+msgstr ""
+
+msgid "Before finish"
+msgstr ""
+
+msgid "Page"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "After finish"
+msgstr ""
+
+msgid "New step"
+msgstr ""
+
+msgid "Deleted questions"
+msgstr ""
+
+msgid "Delete permanently"
+msgstr ""
+
+msgid "There are no deleted questions"
+msgstr ""
+
+msgid "Add step"
+msgstr ""
+
+msgid "New collector"
+msgstr ""
+
+msgid "Add collector"
+msgstr ""
+
+msgid "Manage collaborators"
+msgstr ""
+
+msgid "[page] %s"
+msgstr ""
+
+msgid "Actions before finish"
+msgstr ""
+
+msgid "Actions after finish"
+msgstr ""
+
+msgid "Add label"
+msgstr ""
+
+msgid "Edit label"
+msgstr ""
+
+msgid "Response comment"
+msgstr ""
+
+msgid "Edit report"
+msgstr ""
+
+msgid "Delete report"
+msgstr ""
+
+msgid "Share report"
+msgstr ""
+
+msgid "Export report"
+msgstr ""
+
+msgid "Add response"
+msgstr ""
+
+msgid "Use this template"
+msgstr ""
+
+msgid "Templates"
+msgstr ""
+
+msgid "Survey edited"
+msgstr ""
+
+msgid "Budget updated"
+msgstr ""
+
+msgid "This survey is pending deletion"
+msgstr ""
+
+msgid "Response time is invalid. Please set a reasonable time in minutes for a respondent to answer this survey"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "No records could be generated"
+msgstr ""
+
+msgid "You have reached the limit of 10 labels per survey"
+msgstr ""
+
+msgid "Deleted"
+msgstr ""
+
+msgid "Report sent"
+msgstr ""
+
+msgid "Responses deleted"
+msgstr ""
+
+msgid "Edit collector"
+msgstr ""
+
+msgid "Create an encrypted key"
+msgstr ""
+
+msgid "Collector edited"
+msgstr ""
+
+msgid "[delete] %s"
+msgstr ""
+
+msgid "Step edited"
+msgstr ""
+
+msgid "[restore] %s"
+msgstr ""
+
+msgid "Question edited"
+msgstr ""
+
+msgid "Last seen"
+msgstr ""
+
+msgid "Your team doesn't have any members yet"
+msgstr ""
+
+msgid "Invited by"
+msgstr ""
+
+msgid "Sent"
+msgstr ""
+
+msgid "No invitations sent and not approved"
+msgstr ""
+
+msgid "Invitations sent"
+msgstr ""
+
+msgid "Manage %s's permissions"
+msgstr ""
+
+msgid "Invitation sent"
+msgstr ""
+
+msgid "Permissions saved"
+msgstr ""
+
+msgid "Add a comment"
+msgstr ""
+
+msgid "Action required"
+msgstr ""
+
+msgid "Disqualify"
+msgstr ""
+
+msgid "View result"
+msgstr ""
+
+msgid "Delete response"
+msgstr ""
+
+msgid "Add questions"
+msgstr ""
+
+msgid "Before you can publish this survey, you must add questions first"
+msgstr ""
+
+msgid "Start with a premade form"
+msgstr ""
+
+msgid "Set the budget"
+msgstr ""
+
+msgid "If you choose to buy targeted responses, you need to set a budget for this survey"
+msgstr ""
+
+msgid "Add at least one collector to make sure respondents will find your survey"
+msgstr ""
+
+msgid "Setup"
+msgstr ""
+
+msgid "<strong>You</strong> said"
+msgstr ""
+
+msgid "<strong>%s</strong> says:"
+msgstr ""
+
+msgid "Wrong action"
+msgstr ""
+
+msgid "Contact us if you think this is an error"
+msgstr ""
+
+msgid "Select a page"
+msgstr ""
+
+msgid "Successfully authenticated!"
+msgstr ""
+
+msgid "Authentication confirmed!"
+msgstr ""
+
+msgid "Email confirmed!"
+msgstr ""
+
+msgid "Successfully registered!"
+msgstr ""
+
+msgid "Password changed!"
+msgstr ""
+
+msgid "Are you leaving already? 😌"
+msgstr ""
+
+msgid "Yes, end the session!"
+msgstr ""
+
+msgid "Sign <strong>In</strong>"
+msgstr ""
+
+msgid "Forgot your password?"
+msgstr ""
+
+msgid "Reset your password"
+msgstr ""
+
+msgid "Check your inbox, enter the code we sent you in order to complete your registration"
+msgstr ""
+
+msgid "Check your inbox, enter the code we sent you in order to complete your authentification"
+msgstr ""
+
+msgid "Sign In"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Email address"
+msgstr ""
+
+msgid "Confirm password"
+msgstr ""
+
+msgid "You'll be able to create surveys"
+msgstr ""
+
+msgid "I agreed with the %s"
+msgstr ""
+
+msgid "terms of use"
+msgstr ""
+
+msgid "Invalid email address"
+msgstr ""
+
+msgid "Authorization code"
+msgstr ""
+
+msgid "New password"
+msgstr ""
+
+msgid "Confirm new password"
+msgstr ""
+
+msgid "Reset password"
+msgstr ""
+
+msgid "Verify"
+msgstr ""
+
+msgid "%s y"
+msgstr ""
+
+msgid "%s mo"
+msgstr ""
+
+msgid "%s d"
+msgstr ""
+
+msgid "%s h"
+msgstr ""
+
+msgid "January"
+msgstr ""
+
+msgid "February"
+msgstr ""
+
+msgid "March"
+msgstr ""
+
+msgid "April"
+msgstr ""
+
+msgid "May"
+msgstr ""
+
+msgid "June"
+msgstr ""
+
+msgid "July"
+msgstr ""
+
+msgid "August"
+msgstr ""
+
+msgid "September"
+msgstr ""
+
+msgid "October"
+msgstr ""
+
+msgid "November"
+msgstr ""
+
+msgid "December"
+msgstr ""
+
+msgid "Monday"
+msgstr ""
+
+msgid "Tuesday"
+msgstr ""
+
+msgid "Wednesday"
+msgstr ""
+
+msgid "Thursday"
+msgstr ""
+
+msgid "Friday"
+msgstr ""
+
+msgid "Saturday"
+msgstr ""
+
+msgid "Sunday"
+msgstr ""
+
+msgid "Source: %s"
+msgstr ""
+
+msgid "File cannot be uploaded"
+msgstr ""
+
+msgid "File type not accepted"
+msgstr ""
+
+msgid "Extension not accepted"
+msgstr ""
+
+msgid "Not logged"
+msgstr ""
+
+msgid "Something went wrong"
+msgstr ""
+
+msgid "Invalid username"
+msgstr ""
+
+msgid "Invalid name"
+msgstr ""
+
+msgid "Unexpected"
+msgstr ""
+
+msgid "Username or email already exists"
+msgstr ""
+
+msgid "Your can't edit this profile"
+msgstr ""
+
+msgid "New password is too short"
+msgstr ""
+
+msgid "Moderator"
+msgstr ""
+
+msgid "Administrator"
+msgstr ""
+
+msgid "Full name"
+msgstr ""
+
+msgid "Birthday"
+msgstr ""
+
+msgid "Gender"
+msgstr ""
+
+msgid "Male"
+msgstr ""
+
+msgid "Female"
+msgstr ""
+
+msgid "Avatar"
+msgstr ""
+
+msgid "Send credentials to this email address"
+msgstr ""
+
+msgid "Generate"
+msgstr ""
+
+msgid "Role"
+msgstr ""
+
+msgid "Permissions"
+msgstr ""
+
+msgid "Email verified"
+msgstr ""
+
+msgid "Identity verified"
+msgstr ""
+
+msgid "Email password"
+msgstr ""
+
+msgid "Send the new password via email"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "%s is already banned until <strong>%s</strong>"
+msgstr ""
+
+msgid "Ban!"
+msgstr ""
+
+msgid "Available balance"
+msgstr ""
+
+msgid "Bonus balance"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Leave empty for unlimited"
+msgstr ""
+
+msgid "Price "
+msgstr ""
+
+msgid "Status "
+msgstr ""
+
+msgid "Deleted surveys will not be removed completely until you perform this action"
+msgstr ""
+
+msgid "Remove already deleted surveys"
+msgstr ""
+
+msgid "Older than"
+msgstr ""
+
+msgid "1 day"
+msgstr ""
+
+msgid "3 days"
+msgstr ""
+
+msgid "7 days"
+msgstr ""
+
+msgid "30 days"
+msgstr ""
+
+msgid "Delete all"
+msgstr ""
+
+msgid "Media files"
+msgstr ""
+
+msgid "Deleted media files will not be removed completely until you perform this action"
+msgstr ""
+
+msgid "Remove deleted media files"
+msgstr ""
+
+msgid "Chat messages"
+msgstr ""
+
+msgid "Remove old chat messages"
+msgstr ""
+
+msgid "1 month"
+msgstr ""
+
+msgid "3 months"
+msgstr ""
+
+msgid "6 months"
+msgstr ""
+
+msgid "12 months"
+msgstr ""
+
+msgid "Verification codes"
+msgstr ""
+
+msgid "Remove all expired verification codes"
+msgstr ""
+
+msgid "Abandoned loyalty points carts"
+msgstr ""
+
+msgid "Remove all loyalty points carts older than 30 days"
+msgstr ""
+
+msgid "Clean"
+msgstr ""
+
+msgid "The minimum amount you can deposit is: %s"
+msgstr ""
+
+msgid "You are already subscribed to a plan"
+msgstr ""
+
+msgid "Balance is too low"
+msgstr ""
+
+msgid "The expiration date of your subscription cannot exceed 24 months"
+msgstr ""
+
+msgid "Your balance is too low"
+msgstr ""
+
+msgid "Your Paypal address is invalid"
+msgstr ""
+
+msgid "The amount exceeds your balance available for withdraw"
+msgstr ""
+
+msgid "The minimum amount is: %s"
+msgstr ""
+
+msgid "Invalid voucher code"
+msgstr ""
+
+msgid "Your current password is invalid"
+msgstr ""
+
+msgid "Passwords do not match"
+msgstr ""
+
+msgid "Wrong email address"
+msgstr ""
+
+msgid "Some options couldn't be saved"
+msgstr ""
+
+msgid "Some of the options could not be saved"
+msgstr ""
+
+msgid "Sorry! You can't add new surveys"
+msgstr ""
+
+msgid "Your team has reached the surveys limit"
+msgstr ""
+
+msgid "You have reached the surveys limit"
+msgstr ""
+
+msgid "You can request a maximum of %s responses and at least one"
+msgstr ""
+
+msgid "You can request a maxim of %s responses and at least one"
+msgstr ""
+
+msgid "You need to add questions before you can publish the survey"
+msgstr ""
+
+msgid "Responses exceded your target, before you can publish this survey increse your responses target"
+msgstr ""
+
+msgid "The web address is invalid"
+msgstr ""
+
+msgid "Transfer cannot be made. Make sure that the email address is correct"
+msgstr ""
+
+msgid "The minimum price per completed survey is: %s"
+msgstr ""
+
+msgid "Free vouchers can be saved as a fixed amount only"
+msgstr ""
+
+msgid "Please set the start date"
+msgstr ""
+
+msgid "Please set the expiration date"
+msgstr ""
+
+msgid "Nope, check the points"
+msgstr ""
+
+msgid "Your already have a team"
+msgstr ""
+
+msgid "Please upload the required photos"
+msgstr ""
+
+msgid "The request is already sent"
+msgstr ""
+
+msgid "%s errors. %s emails sent"
+msgstr ""
+
+msgid "You won't be able to modify this information"
+msgstr ""
+
+msgid "Year"
+msgstr ""
+
+msgid "Month"
+msgstr ""
+
+msgid "Day"
+msgstr ""
+
+msgid "You can change your country every 30 days"
+msgstr ""
+
+msgid "Become a surveyor and start creating surveys"
+msgstr ""
+
+msgid "Please update your profile first"
+msgstr ""
+
+msgid "Timezone"
+msgstr ""
+
+msgid "First day of the week"
+msgstr ""
+
+msgid "Hour format"
+msgstr ""
+
+msgid "12-hour clock"
+msgstr ""
+
+msgid "24-hour clock"
+msgstr ""
+
+msgid "Date format"
+msgstr ""
+
+msgid "Current password"
+msgstr ""
+
+msgid "New password again"
+msgstr ""
+
+msgid "How to display my name"
+msgstr ""
+
+msgid "Transfer surveys"
+msgstr ""
+
+msgid "Allow others to transfer surveys to you"
+msgstr ""
+
+msgid "2-Step verification"
+msgstr ""
+
+msgid "Activate 2-Step Verification"
+msgstr ""
+
+msgid "Every time I log in I want to receive a security code which I'll use to complete my login"
+msgstr ""
+
+msgid "Apply a voucher"
+msgstr ""
+
+msgid "No voucher"
+msgstr ""
+
+msgid "Months"
+msgstr ""
+
+msgid "Payment method"
+msgstr ""
+
+msgid "You are currently subscribed to another plan until %s. When you upgrade, all the benefits from your current plan will be lost."
+msgstr ""
+
+msgid "I understand that my current subscription will be terminated immediately"
+msgstr ""
+
+msgid "Upgrade now"
+msgstr ""
+
+msgid "You can't extend your subscription until next month"
+msgstr ""
+
+msgid "You are currently subscribed to another plan until %s. When you downgrade, all the benefits from your current plan will be lost."
+msgstr ""
+
+msgid "Downgrade now"
+msgstr ""
+
+msgid "The minimum required balance to withdraw funds is: %s.<br/>Your available withdrawal balance: %s"
+msgstr ""
+
+msgid "Select a category"
+msgstr ""
+
+msgid "How many responses do you need?"
+msgstr ""
+
+msgid "Personal or share with your team"
+msgstr ""
+
+msgid "Share this survey with <strong>%s</strong>"
+msgstr ""
+
+msgid "Share with a few members only"
+msgstr ""
+
+msgid "Personal survey"
+msgstr ""
+
+msgid "Select the members you want to share the survey with:"
+msgstr ""
+
+msgid "Your team does not have any members"
+msgstr ""
+
+msgid "If you leave the team, surveys shared with your team will be removed from your account even if you are the initiator of the survey"
+msgstr ""
+
+msgid "Automatically approve new responses"
+msgstr ""
+
+msgid "Unapproved responses won't be visible in exports or reports"
+msgstr ""
+
+msgid "Theme"
+msgstr ""
+
+msgid "Paused "
+msgstr ""
+
+msgid "Live "
+msgstr ""
+
+msgid "Finished "
+msgstr ""
+
+msgid "<strong>IF</strong> step has less than"
+msgstr ""
+
+msgid "points <strong>THEN</strong>"
+msgstr ""
+
+msgid "Finish"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Go to a step"
+msgstr ""
+
+msgid "<strong>ELSE IF</strong> step has less than"
+msgstr ""
+
+msgid "Add condition"
+msgstr ""
+
+msgid "<strong>ELSE</strong>"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "Modify time"
+msgstr ""
+
+msgid "You can modify the time a respondent has to complete the survey when this step is reached for the first time"
+msgstr ""
+
+msgid "If the survey is not completed in this time, the response will be automatically disqualified"
+msgstr ""
+
+msgid "Navigation"
+msgstr ""
+
+msgid "Allow respondents to navigate to the previous step"
+msgstr ""
+
+msgid "After submit"
+msgstr ""
+
+msgid "Use an action"
+msgstr ""
+
+msgid "Use conditions"
+msgstr ""
+
+msgid "Go to another step"
+msgstr ""
+
+msgid "Front-end info"
+msgstr ""
+
+msgid "Title & description"
+msgstr ""
+
+msgid "Questions at this step"
+msgstr ""
+
+msgid "Delete all questions at this step"
+msgstr ""
+
+msgid "Move to another step"
+msgstr ""
+
+msgid "Select a step"
+msgstr ""
+
+msgid "Headline"
+msgstr ""
+
+msgid "Paragraph"
+msgstr ""
+
+msgid "Icon"
+msgstr ""
+
+msgid "Visible <strong>IF</strong> points"
+msgstr ""
+
+msgid "Add content"
+msgstr ""
+
+msgid "Display this page"
+msgstr ""
+
+msgid "Display this page & redirect to a web address"
+msgstr ""
+
+msgid "Redirect imediately to a web address"
+msgstr ""
+
+msgid "Request a number of points to finish this survey"
+msgstr ""
+
+msgid "Points required or disqualify the answer"
+msgstr ""
+
+msgid 'Eg.: If you set 10, all answers that do not accumulate at least 10 points from all previous steps will be automatically disqualified. Points verification is made after the "Finish"'
+msgstr ""
+
+msgid "Webhook"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "Reports can only be shared between team members"
+msgstr ""
+
+msgid "Share this report with <strong>%s</strong>"
+msgstr ""
+
+msgid "Select the members you want to share the report with:"
+msgstr ""
+
+msgid "CSV"
+msgstr ""
+
+msgid "Export this report"
+msgstr ""
+
+msgid "Export responses from this report"
+msgstr ""
+
+msgid "Also export"
+msgstr ""
+
+msgid "Print"
+msgstr ""
+
+msgid "Compare and export multiple reports"
+msgstr ""
+
+msgid "Select the reports you want to compare"
+msgstr ""
+
+msgid "Export questions without answer"
+msgstr ""
+
+msgid "View & print"
+msgstr ""
+
+msgid "This action cannot be undone"
+msgstr ""
+
+msgid "Option information"
+msgstr ""
+
+msgid "All information that could be assigned to a response is optional"
+msgstr ""
+
+msgid "Assign a label"
+msgstr ""
+
+msgid "Comment"
+msgstr ""
+
+msgid "Action after"
+msgstr ""
+
+msgid "Do nothing"
+msgstr ""
+
+msgid "Duplicate the response"
+msgstr ""
+
+msgid "How many empty responses?"
+msgstr ""
+
+msgid "The number of blank responses you want to add using the same settings"
+msgstr ""
+
+msgid "Add response now"
+msgstr ""
+
+msgid "Question"
+msgstr ""
+
+msgid "A short piece of information that may help the respondent to better understand the question"
+msgstr ""
+
+msgid "Question type"
+msgstr ""
+
+msgid "Select a question type"
+msgstr ""
+
+msgid "Move"
+msgstr ""
+
+msgid "At beginning"
+msgstr ""
+
+msgid "After "%s""
+msgstr ""
+
+msgid "Require an answer?"
+msgstr ""
+
+msgid "Required"
+msgstr ""
+
+msgid "I want to delete this question"
+msgstr ""
+
+msgid "This question will be permanently deleted and its answers will be permanently lost"
+msgstr ""
+
+msgid "Select the countries"
+msgstr ""
+
+msgid "Both"
+msgstr ""
+
+msgid "Age"
+msgstr ""
+
+msgid "Select the age categories"
+msgstr ""
+
+msgid "18-24 years old"
+msgstr ""
+
+msgid "25-34 years old"
+msgstr ""
+
+msgid "35-44 years old"
+msgstr ""
+
+msgid "45-54 years old"
+msgstr ""
+
+msgid "55-64 years old"
+msgstr ""
+
+msgid "65-74 years old"
+msgstr ""
+
+msgid "Admin options"
+msgstr ""
+
+msgid "Loyalty points"
+msgstr ""
+
+msgid "Loyalty points for each answer"
+msgstr ""
+
+msgid "How to collect responses"
+msgstr ""
+
+msgid "Buy responses"
+msgstr ""
+
+msgid "Audience"
+msgstr ""
+
+msgid "Target audience"
+msgstr ""
+
+msgid "Price per response"
+msgstr ""
+
+msgid "Encryption"
+msgstr ""
+
+msgid "Encrypt key for tracking ID"
+msgstr ""
+
+msgid "This will prevent people to modify tracking ID and you always get accurate tracking information"
+msgstr ""
+
+msgid "Encryption key"
+msgstr ""
+
+msgid "Generate a new key"
+msgstr ""
+
+msgid "Allow responders without tracking ID"
+msgstr ""
+
+msgid "Validation works only with a tracking ID. Here you can allow responders to take your survey without a tracking ID or restrict the survey"
+msgstr ""
+
+msgid "Create a link"
+msgstr ""
+
+msgid "Protect this collector with a password"
+msgstr ""
+
+msgid "Only responders that own this password will be able to answer the survey using this collector"
+msgstr ""
+
+msgid "Track ID"
+msgstr ""
+
+msgid 'URL with encrypted key for the "trackId"'
+msgstr ""
+
+msgid "Expired responses"
+msgstr ""
+
+msgid "Allow expired responses to restart"
+msgstr ""
+
+msgid "By default expired responses cannot be reopened"
+msgstr ""
+
+msgid "Survey time limit"
+msgstr ""
+
+msgid "In minutes. This setting can be overridden by a rule defined in step settings"
+msgstr ""
+
+msgid "It will be visible on survey's page. In header section"
+msgstr ""
+
+msgid "This field is required"
+msgstr ""
+
+msgid "File extension is not allowed"
+msgstr ""
+
+msgid "This file is too big. Maximum allowed size: %s Mb"
+msgstr ""
+
+msgid "This is not a valid email address"
+msgstr ""
+
+msgid "Big text paragraph"
+msgstr ""
+
+msgid "Clear collectors"
+msgstr ""
+
+msgid "No responses"
+msgstr ""
+
+msgid "1 response"
+msgstr ""
+
+msgid "%s responses"
+msgstr ""
+
+msgid "All responses from collectors selected to clear will be permanently removed."
+msgstr ""
+
+msgid "I understand that all responses will be permanently deleted"
+msgstr ""
+
+msgid "Confirmation"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "Transfer"
+msgstr ""
+
+msgid "Transfer this survey"
+msgstr ""
+
+msgid "Transfer this survey and its data to another account. It will be removed from your account. All collaborators will be removed."
+msgstr ""
+
+msgid "New account email address"
+msgstr ""
+
+msgid "Delete survey"
+msgstr ""
+
+msgid "Delete this survey"
+msgstr ""
+
+msgid "This survey will be permanently deleted and all associated data will be lost forever."
+msgstr ""
+
+msgid "Delete this survey permanently"
+msgstr ""
+
+msgid "Filters"
+msgstr ""
+
+msgid "Answers"
+msgstr ""
+
+msgid "Manage questions"
+msgstr ""
+
+msgid "Time period"
+msgstr ""
+
+msgid "Choose"
+msgstr ""
+
+msgid "Last 12 hours"
+msgstr ""
+
+msgid "Last 24 hours"
+msgstr ""
+
+msgid "Last 7 days"
+msgstr ""
+
+msgid "Last 30 days"
+msgstr ""
+
+msgid "Range"
+msgstr ""
+
+msgid "Greater than"
+msgstr ""
+
+msgid "Less than"
+msgstr ""
+
+msgid "Seconds"
+msgstr ""
+
+msgid "Minutes"
+msgstr ""
+
+msgid "Hours"
+msgstr ""
+
+msgid "Variable"
+msgstr ""
+
+msgid "Add variable"
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Save the report for later viewing and analysis"
+msgstr ""
+
+msgid "Generate report"
+msgstr ""
+
+msgid "Select a report"
+msgstr ""
+
+msgid "Any of the following documents"
+msgstr ""
+
+msgid "Your team has reached the members limit"
+msgstr ""
+
+msgid "This member does not exist"
+msgstr ""
+
+msgid "Username or email address"
+msgstr ""
+
+msgid "Member"
+msgstr ""
+
+msgid "Admin"
+msgstr ""
+
+msgid "Custom permissions"
+msgstr ""
+
+msgid "Create new surveys"
+msgstr ""
+
+msgid "Edit surveys"
+msgstr ""
+
+msgid "Approve responses"
+msgstr ""
+
+msgid "Reject responses"
+msgstr ""
+
+msgid "Add responses"
+msgstr ""
+
+msgid "View results, generate reports, save reports, etc"
+msgstr ""
+
+msgid "Send invitations"
+msgstr ""
+
+msgid "Cancel invitations"
+msgstr ""
+
+msgid "Invalid code"
+msgstr ""
+
+msgid "Looks like you inserted the wrong verification code for multiple times, please try again later."
+msgstr ""
+
+msgid "Your verification code has expired, but we sent another one right now. Please check your inbox."
+msgstr ""
+
+msgid "User not set"
+msgstr ""
+
+msgid "Unexpected. Please reload the page and try again."
+msgstr ""
+
+msgid "Invalid credentials"
+msgstr ""
+
+msgid "You must agree with our terms and conditions in order to register"
+msgstr ""
+
+msgid "Invalid username. It should start with a letter and contain between 3-20 letters, numbers, underscores or hyphens."
+msgstr ""
+
+msgid "Invalid or weak password. It should contain at least 6 characters."
+msgstr ""
+
+msgid "Unexpected. Please reload the page and try again"
+msgstr ""
+
+msgid "Username or email address already exists"
+msgstr ""
+
+msgid "To start this survey you must agree to its terms"
+msgstr ""
+
+msgid "This survey is not available at this time, please try again later"
+msgstr ""
+
+msgid "You must be logged in and have a completed profile"
+msgstr ""
+
+msgid "Sorry, you are not eligible to take this survey"
+msgstr ""
+
+msgid "Wrong password"
+msgstr ""
+
+msgid "Website Name"
+msgstr ""
+
+msgid "Website Description"
+msgstr ""
+
+msgid "Website URL"
+msgstr ""
+
+msgid "Minimum Witdraw Amount"
+msgstr ""
+
+msgid "Minimum Deposit Amount"
+msgstr ""
+
+msgid "Default Country"
+msgstr ""
+
+msgid "Default Language"
+msgstr ""
+
+msgid "Client ID"
+msgstr ""
+
+msgid "Secret"
+msgstr ""
+
+msgid "Send via"
+msgstr ""
+
+msgid "PHP Mail"
+msgstr ""
+
+msgid "SMTP Server"
+msgstr ""
+
+msgid "SMTP Settings"
+msgstr ""
+
+msgid "Server"
+msgstr ""
+
+msgid "Port"
+msgstr ""
+
+msgid "Email templates"
+msgstr ""
+
+msgid "File name"
+msgstr ""
+
+msgid "Shortcodes"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "Body"
+msgstr ""
+
+msgid "CPA for self promoted surveys"
+msgstr ""
+
+msgid "Per additional response"
+msgstr ""
+
+msgid "Minimum CPA for surveys"
+msgstr ""
+
+msgid "Commission for responses"
+msgstr ""
+
+msgid "In percents"
+msgstr ""
+
+msgid "Add level"
+msgstr ""
+
+msgid "Each upgrade"
+msgstr ""
+
+msgid "reCAPTCHA"
+msgstr ""
+
+msgid "reCAPTCHA settings"
+msgstr ""
+
+msgid "Key"
+msgstr ""
+
+msgid "Require email verification"
+msgstr ""
+
+msgid "Auto approve surveys"
+msgstr ""
+
+msgid "Favicon"
+msgstr ""
+
+msgid "Meta tag: Title"
+msgstr ""
+
+msgid "Meta tag: Description"
+msgstr ""
+
+msgid "Meta tag: Keywords"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Plugin"
+msgstr ""
+
+msgid "As a child for"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "More options"
+msgstr ""
+
+msgid "More"
+msgstr ""
+
+msgid "On deposit"
+msgstr ""
+
+msgid "Fixed amount"
+msgstr ""
+
+msgid "Percent"
+msgstr ""
+
+msgid "Can be used by"
+msgstr ""
+
+msgid "Anyone"
+msgstr ""
+
+msgid "Set 0 for an unlimited number of times this voucher can be used"
+msgstr ""
+
+msgid "This voucher will never expire"
+msgstr ""
+
+msgid "Plan name"
+msgstr ""
+
+msgid "Surveys limit"
+msgstr ""
+
+msgid "-1 stands for unlimited"
+msgstr ""
+
+msgid "-1 stands for unlimited. 0 is for team section not allowed"
+msgstr ""
+
+msgid "-1 stands for unlimited. In MB"
+msgstr ""
+
+msgid "Remove brand"
+msgstr ""
+
+msgid "Remove our brand from survey's footer"
+msgstr ""
+
+msgid "Regular monthly price"
+msgstr ""
+
+msgid "Minimum months"
+msgstr ""
+
+msgid "Available from"
+msgstr ""
+
+msgid "Active immediately"
+msgstr ""
+
+msgid "Available up to"
+msgstr ""
+
+msgid "Tax %"
+msgstr ""
+
+msgid "Percentage of the total amount representing taxes"
+msgstr ""
+
+msgid "Tax label"
+msgstr ""
+
+msgid "Item label"
+msgstr ""
+
+msgid "For invoices & receipts generated for the budget used for surveys"
+msgstr ""
+
+msgid "Prefix for plan invoices"
+msgstr ""
+
+msgid "Prefix for invoice numbers generated after a plan has been purchased or extended"
+msgstr ""
+
+msgid "Prefix for plan receipts"
+msgstr ""
+
+msgid "Prefix for survey invoices"
+msgstr ""
+
+msgid "Prefix for invoice numbers generated after a survey is finished and a spending summary is ready"
+msgstr ""
+
+msgid "Prefix for survey receipts"
+msgstr ""
+
+msgid "Commpany name"
+msgstr ""
+
+msgid "Appears on invoices/receipts"
+msgstr ""
+
+msgid "Commpany address"
+msgstr ""
+
+msgid "Send email after the invoice is generated"
+msgstr ""
+
+msgid "Send alert after the invoice is generated"
+msgstr ""
+
+msgid "Survey answers"
+msgstr ""
+
+msgid "Handheld Identify Document"
+msgstr ""
+
+msgid "If you activate this option, a selfie photo of the member holding the document is required"
+msgstr ""
+
+msgid "Terms of use: %s"
+msgstr ""
+
+msgid "Custom expiration"
+msgstr ""
+
+msgid "Use a custom expiration date"
+msgstr ""
+
+msgid "ISO 3166"
+msgstr ""
+
+msgid "Timezones"
+msgstr ""
+
+msgid "Money format"
+msgstr ""
+
+msgid "Number Symbol ( 1.99 $"
+msgstr ""
+
+msgid "Money separator"
+msgstr ""
+
+msgid "Send email notifications if subscriptions"
+msgstr ""
+
+msgid "Will expire"
+msgstr ""
+
+msgid "In"
+msgstr ""
+
+msgid "%s days"
+msgstr ""
+
+msgid "Last notification sent <strong>%s</strong>"
+msgstr ""
+
+msgid "Expiration time"
+msgstr ""
+
+msgid "All expired subscriptions"
+msgstr ""
+
+msgid 'Subscriptions that are set to "auto-renew"'
+msgstr ""
+
+msgid "Auto-renew now"
+msgstr ""
+
+msgid "Multiple Choice"
+msgstr ""
+
+msgid "Checkboxes"
+msgstr ""
+
+msgid "Text Field"
+msgstr ""
+
+msgid "Textarea"
+msgstr ""
+
+msgid "Dropdown"
+msgstr ""
+
+msgid "Date & Time"
+msgstr ""
+
+msgid "Image Choice"
+msgstr ""
+
+msgid "Contact Information"
+msgstr ""
+
+msgid "Slider"
+msgstr ""
+
+msgid "Matrix/Multiple Choice"
+msgstr ""
+
+msgid "Matrix/Rating Scale"
+msgstr ""
+
+msgid "Matrix/Dropdowns"
+msgstr ""
+
+msgid "Star Rating"
+msgstr ""
+
+msgid "Ranking"
+msgstr ""
+
+msgid "File Upload"
+msgstr ""
+
+msgid "Confirmation Checkbox"
+msgstr ""
+
+msgid "Net Promoter® Score"
+msgstr ""
+
+msgid "Section Title"
+msgstr ""
+
+msgid "Advanced. External: Text Field"
+msgstr ""
+
+msgid "First and last name"
+msgstr ""
+
+msgid "Company"
+msgstr ""
+
+msgid "Address 2"
+msgstr ""
+
+msgid "City/Town"
+msgstr ""
+
+msgid "State/Province"
+msgstr ""
+
+msgid "ZIP/Postal Code"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Please fill in here"
+msgstr ""
+
+msgid "Files accepted: %s"
+msgstr ""
+
+msgid "I agree"
+msgstr ""
+
+msgid "The answer to this question is invalid"
+msgstr ""
+
+msgid "This input is not valid"
+msgstr ""
+
+msgid "Please insert a number"
+msgstr ""
+
+msgid "This is not a valid number"
+msgstr ""
+
+msgid "The selected date is not in range"
+msgstr ""
+
+msgid "Invalid order"
+msgstr ""
+
+msgid "Error code: %s"
+msgstr ""
+
+msgid "You must agree to the terms to complete this survey"
+msgstr ""
+
+msgid "Error! Please contact us"
+msgstr ""
+
+msgid "Answer options"
+msgstr ""
+
+msgid "Option"
+msgstr ""
+
+msgid "Add option"
+msgstr ""
+
+msgid "Conditions"
+msgstr ""
+
+msgid "The minimum number of points to advance"
+msgstr ""
+
+msgid "Error message if there are not enough points"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "Shuffle answer options"
+msgstr ""
+
+msgid "Shuffle answer options for each respondent"
+msgstr ""
+
+msgid "Min selections"
+msgstr ""
+
+msgid "Max selections"
+msgstr ""
+
+msgid "How to calculate points"
+msgstr ""
+
+msgid "Accumulate from each answer"
+msgstr ""
+
+msgid "Use the maximum value"
+msgstr ""
+
+msgid "Format"
+msgstr ""
+
+msgid "String"
+msgstr ""
+
+msgid "Min length"
+msgstr ""
+
+msgid "Max length"
+msgstr ""
+
+msgid "Find words/phrases"
+msgstr ""
+
+msgid "Find"
+msgstr ""
+
+msgid "Anywhere"
+msgstr ""
+
+msgid "Exact"
+msgstr ""
+
+msgid "Add word/phrase"
+msgstr ""
+
+msgid "month/day/year"
+msgstr ""
+
+msgid "day/month/year"
+msgstr ""
+
+msgid "Ask for time"
+msgstr ""
+
+msgid "Date from"
+msgstr ""
+
+msgid "Anytime"
+msgstr ""
+
+msgid "Tomorrow"
+msgstr ""
+
+msgid "Date to"
+msgstr ""
+
+msgid "This year"
+msgstr ""
+
+msgid "Ranges"
+msgstr ""
+
+msgid "Add range"
+msgstr ""
+
+msgid "Add image"
+msgstr ""
+
+msgid "Columns"
+msgstr ""
+
+msgid "Column name"
+msgstr ""
+
+msgid "Add column"
+msgstr ""
+
+msgid "Points if information is provided"
+msgstr ""
+
+msgid "Shuffle labels"
+msgstr ""
+
+msgid "Shuffle labels for each respondent"
+msgstr ""
+
+msgid "Shuffle columns"
+msgstr ""
+
+msgid "Shuffle columns for each respondent"
+msgstr ""
+
+msgid "Option name"
+msgstr ""
+
+msgid "Extensions accepted"
+msgstr ""
+
+msgid "Request external links"
+msgstr ""
+
+msgid "Activate option for external links"
+msgstr ""
+
+msgid "Instead of files, you can request external links. We don't check or download external links."
+msgstr ""
+
+msgid "Points if a valid file/link is provided"
+msgstr ""
+
+msgid "Reqest information"
+msgstr ""
+
+msgid "Points for"
+msgstr ""
+
+msgid "position"
+msgstr ""
+
+msgid "Checkbox label"
+msgstr ""
+
+msgid "Error message if terms are not accepted"
+msgstr ""
+
+msgid "Points if terms are accepted"
+msgstr ""
+
+msgid "Please provide a valid URL"
+msgstr ""
+
+msgid "Add before"
+msgstr ""
+
+msgid "Add after"
+msgstr ""
+
+msgid "Add new block"
+msgstr ""
+
+msgid "Question option"
+msgstr ""
+
+msgid "Question attachment"
+msgstr ""
+
+msgid "User avatar"
+msgstr ""
+
+msgid "Block"
+msgstr ""
+
+msgid "Page thumbnails"
+msgstr ""
+
+msgid "KYC"
+msgstr ""
+
+msgid "Shop item"
+msgstr ""
+
+msgid "Theme options"
+msgstr ""
+
+msgid "Survey avatar"
+msgstr ""
+
+msgid "Survey logo"
+msgstr ""
+
+msgid "Survey meta image"
+msgstr ""
+
+msgid "Thank you"
+msgstr ""
+
+msgid "Disqualification"
+msgstr ""
+
+msgid "Your answer has been disqualified!"
+msgstr ""
+
+msgid "Error. Please contact us."
+msgstr ""
+
+msgid "Payment processed. Thank you!"
+msgstr ""
+
+msgid "Default theme"
+msgstr ""
+
+msgid "Classic"
+msgstr ""
+
+msgid "Modern"
+msgstr ""
+
+msgid "Net Promoter Score"
+msgstr ""
+
+msgid "Find out how well your brand is performing."
+msgstr ""
+
+msgid "How likely is it that you would recommend this company to a friend or colleague?"
+msgstr ""
+
+msgid "What's the main reason for your score?"
+msgstr ""
+
+msgid "What is your gender?"
+msgstr ""
+
+msgid "What is your age?"
+msgstr ""
+
+msgid "Customer satisfaction"
+msgstr ""
+
+msgid "Your customers can make or break your business. Hear from them."
+msgstr ""
+
+msgid "Transactional feedback"
+msgstr ""
+
+msgid "Get feedback pertaining to a customers"
+msgstr ""
+
+msgid "How responsive have we been to your questions or concerns about our products?"
+msgstr ""
+
+msgid "Not at all responsive"
+msgstr ""
+
+msgid "Somewhat responsive"
+msgstr ""
+
+msgid "Extremely responsive"
+msgstr ""
+
+msgid "N/A"
+msgstr ""
+
+msgid "How likely are you to purchase any of our products again?"
+msgstr ""
+
+msgid "Not at all likely"
+msgstr ""
+
+msgid "Somewhat likely"
+msgstr ""
+
+msgid "Extremely likely"
+msgstr ""
+
+msgid "Tenant Satisfaction"
+msgstr ""
+
+msgid "A tenant feedback survey is a simple way for property managers to capture valuable feedback from their residents."
+msgstr ""
+
+msgid "How satisfied are you with the following:"
+msgstr ""
+
+msgid "Interior walls, flooring and all other surfaces"
+msgstr ""
+
+msgid "Interior appliances such as refrigerator, dishwasher, and stove."
+msgstr ""
+
+msgid "Exterior walls and roofing"
+msgstr ""
+
+msgid "Your experience"
+msgstr ""
+
+msgid "Very Dissatisfied"
+msgstr ""
+
+msgid "Dissatisfied"
+msgstr ""
+
+msgid "Neutral"
+msgstr ""
+
+msgid "Satisfied"
+msgstr ""
+
+msgid "Very Satisfied"
+msgstr ""
+
+msgid "Are maintenance requests handled to your satisfaction?"
+msgstr ""
+
+msgid "Of the following, which feature or amenity would be least and most important in justifying a small increase in rent?"
+msgstr ""
+
+msgid "New fitness center"
+msgstr ""
+
+msgid "Marble countertops"
+msgstr ""
+
+msgid "New interior appliances"
+msgstr ""
+
+msgid "Remodeled kitchens"
+msgstr ""
+
+msgid "Remodeled bathrooms"
+msgstr ""
+
+msgid "Least Important"
+msgstr ""
+
+msgid "Most Important"
+msgstr ""
+
+msgid "Tenant satisfaction"
+msgstr ""
+
+msgid "Employee satisfaction"
+msgstr ""
+
+msgid "This employee template focuses more on satisfaction questions, but also covers engagement."
+msgstr ""
+
+msgid "Which department are you a part of?"
+msgstr ""
+
+msgid "Department 1"
+msgstr ""
+
+msgid "Department 2"
+msgstr ""
+
+msgid "Department 3"
+msgstr ""
+
+msgid "Which location do you work in?"
+msgstr ""
+
+msgid "Location 1"
+msgstr ""
+
+msgid "Location 2"
+msgstr ""
+
+msgid "Location 3"
+msgstr ""
+
+msgid "Compensation and Benefits"
+msgstr ""
+
+msgid "My overall compensation"
+msgstr ""
+
+msgid "Healthcare benefits"
+msgstr ""
+
+msgid "PTO and vaction"
+msgstr ""
+
+msgid "401k / Retirement plan"
+msgstr ""
+
+msgid "Co-Workers & Relationships"
+msgstr ""
+
+msgid "How would you agree with the following:"
+msgstr ""
+
+msgid "My supervior supports me in doing my job"
+msgstr ""
+
+msgid "I have a good relationship with my supervisor"
+msgstr ""
+
+msgid "I feel like I can count on my peers when I need help"
+msgstr ""
+
+msgid "Strongly Disagree"
+msgstr ""
+
+msgid "Disagree"
+msgstr ""
+
+msgid "Agree"
+msgstr ""
+
+msgid "Strongly Agree"
+msgstr ""
+
+msgid "Culture and Mission"
+msgstr ""
+
+msgid "The overall business strategy"
+msgstr ""
+
+msgid "Leadership puts us in a position to be successful"
+msgstr ""
+
+msgid "My feedback and ideas for improvements are valued"
+msgstr ""
+
+msgid "I am inspired to do my best work"
+msgstr ""
+
+msgid "Career Development"
+msgstr ""
+
+msgid "Career advancement"
+msgstr ""
+
+msgid "Opportunities to apply my talents"
+msgstr ""
+
+msgid "Opportunities to grow and challenge myself"
+msgstr ""
+
+msgid "Work Environment"
+msgstr ""
+
+msgid "I have the tools needed to do my job"
+msgstr ""
+
+msgid "My work environment is conducive to getting my job done"
+msgstr ""
+
+msgid "I have clarity in my job role and understand exactly what I need to do"
+msgstr ""
+
+msgid "What I like best about this company:"
+msgstr ""
+
+msgid "What I would like to help change:"
+msgstr ""
+
+msgid "Volunteer feedback"
+msgstr ""
+
+msgid "Capture the opinions of people attending volunteer events. This data is crucial to keep volunteers coming back to support your cause."
+msgstr ""
+
+msgid "How much of an impact do you feel your volunteer work had?"
+msgstr ""
+
+msgid "Almost none"
+msgstr ""
+
+msgid "A moderate amount"
+msgstr ""
+
+msgid "A great deal"
+msgstr ""
+
+msgid "How useful were the volunteer training sessions at our organization?"
+msgstr ""
+
+msgid "Not at all useful"
+msgstr ""
+
+msgid "Somewhat useful"
+msgstr ""
+
+msgid "Very useful"
+msgstr ""
+
+msgid "How easy was it to get along with the other volunteers at this organization?"
+msgstr ""
+
+msgid "Not easy"
+msgstr ""
+
+msgid "Somewhat easy"
+msgstr ""
+
+msgid "Very easy"
+msgstr ""
+
+msgid "How friendly were the staff at our organization?"
+msgstr ""
+
+msgid "Not friendly"
+msgstr ""
+
+msgid "Somewhat friendly"
+msgstr ""
+
+msgid "Very friendly"
+msgstr ""
+
+msgid "How likely are you to continue volunteering at our organization in the future?"
+msgstr ""
+
+msgid "Not likely"
+msgstr ""
+
+msgid "Very likely"
+msgstr ""
+
+msgid "Comments, concerns, or additional feedback:"
+msgstr ""
+
+msgid "Parent feedback"
+msgstr ""
+
+msgid "How often do you wish you could talk with teachers at your child's school?"
+msgstr ""
+
+msgid "I don't need to meeet"
+msgstr ""
+
+msgid "Once a semester"
+msgstr ""
+
+msgid "Once a month"
+msgstr ""
+
+msgid "Once a week"
+msgstr ""
+
+msgid "How confident are you that you can help your child can developer good friendships?"
+msgstr ""
+
+msgid "Not confident"
+msgstr ""
+
+msgid "Confident"
+msgstr ""
+
+msgid "To what extent do you know how your child is doing socially at school?"
+msgstr ""
+
+msgid "Not at all"
+msgstr ""
+
+msgid "Somewhat"
+msgstr ""
+
+msgid "Quite a bit"
+msgstr ""
+
+msgid "How often do you and your child talk when he or she is having a problem with others?"
+msgstr ""
+
+msgid "Rarley"
+msgstr ""
+
+msgid "Sometimes"
+msgstr ""
+
+msgid "Does your child work better alone or in groups?"
+msgstr ""
+
+msgid "Alone"
+msgstr ""
+
+msgid "Groups"
+msgstr ""
+
+msgid "How much of a sense of belonging does your child feel at his or her school?"
+msgstr ""
+
+msgid "No belonging at all"
+msgstr ""
+
+msgid "Some belonging"
+msgstr ""
+
+msgid "Quite a bit of belonging"
+msgstr ""
+
+msgid "How often do you help your child understand the content he or she is learning in school?"
+msgstr ""
+
+msgid "How safe do you feel your children are at our school?"
+msgstr ""
+
+msgid "Not safe"
+msgstr ""
+
+msgid "Somewhat safe"
+msgstr ""
+
+msgid "Very safe"
+msgstr ""
+
+msgid "How confident are you that our school meets your child's learning needs?"
+msgstr ""
+
+msgid "How confident are you in your ability to support your child's learning at home?"
+msgstr ""
+
+msgid "How much effort does your child put into school-related tasks?"
+msgstr ""
+
+msgid "Not much effort"
+msgstr ""
+
+msgid "Some effort"
+msgstr ""
+
+msgid "A lot of effort"
+msgstr ""
+
+msgid "What can our school do to better meet your child's learning needs?"
+msgstr ""
+
+msgid "Questions about interests and activities:"
+msgstr ""
+
+msgid "How well do the activities offered at your child's school match his or her interests?"
+msgstr ""
+
+msgid "Not well"
+msgstr ""
+
+msgid "Somewhat well"
+msgstr ""
+
+msgid "Very well"
+msgstr ""
+
+msgid "If we offered after school activities, how often would you volunteer?"
+msgstr ""
+
+msgid "I can't volunteer"
+msgstr ""
+
+msgid "If we were to offer the following, what would be the least appealing and most appealing after school activity?"
+msgstr ""
+
+msgid "Move night"
+msgstr ""
+
+msgid "Arts and crafts"
+msgstr ""
+
+msgid "Book club"
+msgstr ""
+
+msgid "Once a week motivational speaker"
+msgstr ""
+
+msgid "Financial planning course"
+msgstr ""
+
+msgid "Text block"
+msgstr ""
+
+msgid "Write here ..."
+msgstr ""
+
+msgid "Text intent"
+msgstr ""
+
+msgid "Unset"
+msgstr ""
+
+msgid "First paragraph"
+msgstr ""
+
+msgid "All paragraphs"
+msgstr ""
+
+msgid "Text size"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Big"
+msgstr ""
+
+msgid "Container"
+msgstr ""
+
+msgid "Use container"
+msgstr ""
+
+msgid "Image block"
+msgstr ""
+
+msgid "Copyrights"
+msgstr ""
+
+msgid "Title block"
+msgstr ""
+
+msgid "Title align"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Quote"
+msgstr ""
+
+msgid "Quote block"
+msgstr ""
+
+msgid "HTML"
+msgstr ""
+
+msgid "HTML Block"
+msgstr ""
+
+msgid "Invalid server for media files"
+msgstr ""
+
+msgid "Your files are too big"
+msgstr ""
+
+msgid "Link"
+msgstr ""
+
+msgid "Label"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "New tab"
+msgstr ""
+
+msgid "Classes"
+msgstr ""
+
+msgid "Zip extension not installed on your server"
+msgstr ""
+
+msgid 'Directory "%s"'
+msgstr ""
+
+msgid "Invalid archive"
+msgstr ""
+
+msgid "Functions file is missing"
+msgstr ""
+
+msgid "This plugin is already installed"
+msgstr ""
+
+msgid "Template cannot be found"
+msgstr ""
+
+msgid "No template selected"
+msgstr ""
+
+msgid "This template cannot be modified"
+msgstr ""
+
+msgid "This theme is already installed"
+msgstr ""
+
+msgid "Invalid SMTP options"
+msgstr ""
+
+msgid "No survey selected"
+msgstr ""
+
+msgid "Wrong template"
+msgstr ""
+
+msgid "Not approved"
+msgstr ""
+
+msgid "Request setup"
+msgstr ""
+
+msgid "Respondent"
+msgstr ""
+
+msgid "<strong>%s</strong> was invited by <strong>%s</strong> to join the team"
+msgstr ""
+
+msgid "<strong>%s</strong> joined the team"
+msgstr ""
+
+msgid "<strong>%s</strong>'s invitation has been canceled"
+msgstr ""
+
+msgid "<strong>%s</strong> left the team"
+msgstr ""
+
+msgid "rejected"
+msgstr ""
+
+msgid "abandoned"
+msgstr ""
+
+msgid "Pending verification"
+msgstr ""
+
+msgid "OR"
+msgstr ""
+
+msgid "<strong>%s</strong> invited you to join <strong>%s</strong>"
+msgstr ""
+
+msgid "Join team"
+msgstr ""
+
+msgid "Reject invitation"
+msgstr ""
+
+msgid "Invitation approved"
+msgstr ""
+
+msgid "Invitation canceled"
+msgstr ""
+
+msgid "<strong>%s</strong> shared a report"
+msgstr ""
+
+msgid "The report has been deleted"
+msgstr ""
+
+msgid "Page:"
+msgstr ""
+
+msgid "Wrong media category"
+msgstr ""
+
+msgid "Invalid type"
+msgstr ""
+
+msgid "Categories &mdash; %s"
+msgstr ""
+
+msgid "Invalid page"
+msgstr ""
+
+msgid "Default template"
+msgstr ""
+
+msgid "%s member"
+msgstr ""

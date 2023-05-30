@@ -1,0 +1,135 @@
+@media only screen and (max-width: 810px) {
+    .popup > .popup-main > .content-container {
+        height: 100%;
+        border-radius: 0;
+        overflow: hidden;
+    }
+
+    .popup > .popup-main {
+        max-width: 100%;
+        max-height: 100%;
+    }
+
+    .popup .headline {
+        padding-right: 80px;
+    }
+
+    .popup .close {
+        top: 5px;
+        right: 5px;
+        border-radius: 0;
+        height: 60px;
+        width: 60px;
+    }
+
+    .page-container .content-container {
+        padding: 15px;
+    }
+
+    .btnset.nav_switch > li > a.sav > span {
+        display: none;
+    }
+
+    .boxes {
+        gap: 10px;
+    }
+
+    .boxes > div {
+        flex: auto;
+        width: calc(50% - 10px);
+        max-width: 100%;
+    }
+
+    .nav {
+        position: relative;
+        width: 100%;
+        padding: 30px;
+        margin: 0;
+        box-sizing: border-box;
+        overflow: auto;
+    }
+
+    .nav-left {
+        display: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 10;
+    }
+
+    .nav-left > .nav-top {
+        display: none;
+    }
+
+    .nav-left .nav-container {
+        width: 100%;
+    }
+
+    .page-container .content-container > .content {
+        height: auto;
+    }
+
+    .t1 {
+        flex-direction: column;
+        height: auto;
+    }
+
+    .pr-table .tr > div .poff {
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+
+    form.list_form > div {
+        flex: auto;
+        width: calc(50% - 5px);
+    }
+
+    .table .tr, .table .td {
+        width: fit-content;
+        min-width: 800px;
+    }
+
+    .table.wa .tr, .table.wa .td,
+    .table.wa2 .tr, .table.wa2 .td {
+        width: auto;
+        min-width: auto;
+    }
+
+    .mmenu {
+        visibility: visible;
+    }
+
+    body.mmactive .nav-left {
+        display: block;
+    }
+
+    body.mmactive .mmenu {
+        background: #fff;
+    }
+
+    body.mmactive .mmenu .lines > span {
+        background: #464033;
+    }
+
+    .h100 {
+        height: auto;
+    }
+
+    .mwel {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .mcol {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .hm {
+        display: none;
+    }
+}

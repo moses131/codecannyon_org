@@ -1,0 +1,163 @@
+* {
+    direction: rtl;
+    text-align: right!important;
+}
+
+.nav-left > .nav-top,
+.formbox > h2 > i,
+.box > div h2,
+.pr-table .tdt > div *, 
+.pr-table .td > div * {
+    text-align: center!important;
+}
+
+.pra5 > * {
+    padding-right: 0;
+    padding-left: 5px;
+}
+
+.hnav,
+.table > .th > h2 + div,
+.nav li .labelt > .lnk {
+    margin-left: 0;
+}
+
+.hnav.btnset.nav_switch,
+.nav li .labelt > .lnk {
+    margin-right: auto;
+}
+
+.table > .th > h2 + div {
+    margin-right: auto;
+}
+
+.btnset > li ul {
+    left: 0;
+    right: auto;
+}
+
+.popup .close, .msg .close {
+    left: -20px;
+    right: auto;
+}
+
+.tl {
+    text-align: right!important;
+}
+
+.tc * {
+    text-align: center!important;
+}
+
+.mla,
+.popup .headline > span + span,
+.form_dropdown > div > i:last-of-type, 
+.ab2 > a > i:last-of-type {
+    margin-left: 0!important;
+    margin-right: auto!important;
+}
+
+.form_line > i, 
+.form_dropdown > div > i:first-child, 
+.ab2 > a > i:first-child {
+    left: auto;
+    right: 0;
+}
+
+.form_line > i + input, .form_line i + select, .form_line i + textarea {
+    padding-left: 10px;
+    padding-right: 40px;
+}
+
+.nav li > a > span.a1 + i {
+    margin-left: 0;
+    margin-right: 10px;
+}
+
+.btnset > li > a > :not(:last-child),
+.fields_row > .form_line:not(:last-child),
+.mr > :not(:last-child),
+.form_dropdown > div > :not(:last-child),
+.viewn > i,
+.uinfol > li > i {
+    margin-left: 10px;
+    margin-right: 0;
+}
+
+.form_group > .form_line:not(.hidden) ~ .form_line {
+    margin-left: 0!important;
+    margin-right: 15px!important;
+}
+
+.btnset > li > a.sav {
+    padding-left: 10px;
+    padding-right: 50px;
+}
+
+.sav3 > div {
+    left: auto;
+    right: 10px;
+}
+
+.form_line input[type="checkbox"] + label::before, 
+.form_line input[type="radio"] + label::before,
+.ico > :not(:last-child) {
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+.list_form .form_dropdown > div > i + span {
+    margin-right: 40px;
+}
+
+.txt2 {
+    margin-left: 20px;
+}
+
+.txt2 > span {
+    margin-right: 0;
+}
+
+.bgr {
+    margin-left: 0!important;
+}
+
+.bgr > * {
+    border-right: 1px solid #17242a;
+    border-left: 0;
+}
+
+.table .tr > div:not(:last-child), 
+.table .td > div:not(:last-child) {
+    margin-right: 0;
+    margin-left: 20px;   
+}
+
+.ml20 {
+    margin-right: 20px;
+    margin-left: 0;
+}
+
+.pr-table .td > div {
+    border-right: 0!important;
+}
+
+.pr-table .td > div:not(:first-child) {
+    border-right: 1px solid #E3E3E3!important;
+}
+
+.result {
+    margin-left: 10px;
+    border-left: 0;
+    margin-right: 0;
+    border-right: 1px solid #E3E3E3;
+}
+
+.result h2:after {
+    left: auto;
+    right: -6px;
+}
+
+.result > .comment > div {
+    margin: 0 20px 30px 0
+}

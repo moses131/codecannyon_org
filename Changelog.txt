@@ -1,0 +1,3 @@
+11.02.2022
+
+- Bug fix. The translation for the backend was the problem.

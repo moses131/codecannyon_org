@@ -1,0 +1,407 @@
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n!=1 && n%100>=1 && n%100<=19) ? 1 : 2);\n"
+"X-Generator: Poedit 3.1.1\n"
+
+msgid "Not found"
+msgstr "Nu a putut fi găsit"
+
+msgid "Help"
+msgstr "Ajutor"
+
+msgid "Read more"
+msgstr "Citește mai mult"
+
+msgid "~ %s min."
+msgstr ""
+
+msgid "FAQs"
+msgstr ""
+
+msgid "Home"
+msgstr "Acasă"
+
+msgid "Choose your language"
+msgstr "Alegeți limba"
+
+msgid "View questions"
+msgstr "Întrebări"
+
+msgid "New question"
+msgstr "Întrebare nouă"
+
+msgid "Edit question"
+msgstr "Editare întrebarea"
+
+msgid "Show on homepage"
+msgstr "Afișați pe pagina principală"
+
+msgid "Yes"
+msgstr "Da"
+
+msgid "No"
+msgstr "Nu"
+
+msgid "Blog"
+msgstr ""
+
+msgid "View posts"
+msgstr "Postări"
+
+msgid "New post"
+msgstr "Postare nouă"
+
+msgid "Edit post"
+msgstr "Editare postare"
+
+msgid "Thumbnail"
+msgstr "Imagine"
+
+msgid "Reading duration"
+msgstr "Durată lectură"
+
+msgid "Helpdesk"
+msgstr ""
+
+msgid "Excerpt"
+msgstr "Pe scurt"
+
+msgid "Help label"
+msgstr "Titlu Ajutor"
+
+msgid "Content"
+msgstr "Conținut"
+
+msgid "Write here ..."
+msgstr "Scrieți aici ..."
+
+msgid "Options"
+msgstr "Opțiuni"
+
+msgid "Text intent"
+msgstr "Alineat text"
+
+msgid "Unset"
+msgstr ""
+
+msgid "First paragraph"
+msgstr "Primul paragraf"
+
+msgid "All paragraphs"
+msgstr "Toate paragrafele"
+
+msgid "Text size"
+msgstr "Marime text"
+
+msgid "Normal"
+msgstr ""
+
+msgid "Big"
+msgstr "Mare"
+
+msgid "Text block"
+msgstr ""
+
+msgid "Front page"
+msgstr "Pagină principală"
+
+msgid "Hero section title"
+msgstr "Titlu secțiune hero"
+
+msgid "Build beautiful surveys."
+msgstr "Creați sondaje uimitoare."
+
+msgid "Hero section highlights"
+msgstr "Titluri secțiune hero"
+
+msgid "Words separated by a comma"
+msgstr "Cuvinte separate cu virgulă"
+
+msgid "Easy, Fast, Professional"
+msgstr "Usor, Rapid, Profesional"
+
+msgid "Click me"
+msgstr "Click aici"
+
+msgid "https:// ..."
+msgstr ""
+
+msgid "Sections"
+msgstr "Secțiuni"
+
+msgid "Add new section"
+msgstr "Adaugă secțiune nouă"
+
+msgid "New section"
+msgstr "Secțiune nouă"
+
+msgid "Title"
+msgstr "Titlu"
+
+msgid "Text"
+msgstr ""
+
+msgid "Image"
+msgstr "Imagine"
+
+msgid "Text boxes"
+msgstr "Cutii text"
+
+msgid "Add new box"
+msgstr "Adaugă cutie"
+
+msgid "New box"
+msgstr "Cutie nouă"
+
+msgid "Link name"
+msgstr "Nume link"
+
+msgid "URL"
+msgstr ""
+
+msgid "Call to action box"
+msgstr "Cutie indemnare la acțiune"
+
+msgid "Call to action link"
+msgstr "Link cutie  îndemnare la acțiune"
+
+msgid "This link appears after the hero section"
+msgstr "Acest link apare dupa secțiunea hero"
+
+msgid "Respondents page"
+msgstr "Pagină respondenți"
+
+msgid "Pricing page"
+msgstr "Pagină prețuri"
+
+msgid "Personal plans sections"
+msgstr "Secțiuni planuri personale"
+
+msgid "Team plans sections"
+msgstr "Secțiuni planuri echipă"
+
+msgid "FAQs page"
+msgstr "Pagină Înrebări frecvente"
+
+msgid "Logo"
+msgstr ""
+
+msgid "Logo on fixed menu"
+msgstr "Logo pe meniul fix"
+
+msgid "Main menu"
+msgstr "Meniu principal"
+
+msgid "Default"
+msgstr "Implicit"
+
+msgid "For respondents"
+msgstr "Pentru respondenți"
+
+msgid "Pricing"
+msgstr "Prețuri"
+
+msgid "FAQ"
+msgstr ""
+
+msgid "More"
+msgstr "Mai mult"
+
+msgid "Templates"
+msgstr "Șabloane"
+
+msgid "Examples"
+msgstr "Exemple"
+
+msgid "Contact us"
+msgstr "Contactați-ne"
+
+msgid "Footer menu"
+msgstr "Meniu subsol"
+
+msgid "Sign in"
+msgstr "Intrare"
+
+msgid "Sign up"
+msgstr "Alăturați-vă"
+
+msgid "Professional., Easy., Fast."
+msgstr "Profesional., Ușor., Rapid."
+
+msgid "Free"
+msgstr "Gratuit"
+
+msgid "Building beautiful surveys"
+msgstr "Creați sondaje uimitoare."
+
+msgid "You can choose from a vast variety of inputs in order to create even the most complex surveys. Or you can choose from one of our pre-made templates. Either way, your success is guaranteed, because if you care about the stats, there is no other option."
+msgstr "Puteți alege dintr-o vastă varietate de opțiuni pentru a creea pană și cele mai complexe sondaje. Sau puteți alege unul din șabloane. Dacă vă pasă de statistici, succesul este garantat."
+
+msgid "Collect responses in style"
+msgstr "Colectați răspusuri cu stil"
+
+msgid "When you consider that your survey is ready, create your first collector and start collecting responses right away. Publish the link on your website, and social profiles, or send it via email. If this is not your style, collect responses from our members."
+msgstr "Atunci când considerați că sondajul dvs. este pregătit, creați primul colector și începeți imediat. Publicați link-ul pe site-ul dvs. sau trimiteți-l prin email. Puteți colecta răspunsuri de la membri site-ului nostru."
+
+msgid "Analize responses like a PRO"
+msgstr "Analizați ca un PROfesionist"
+
+msgid "Create reports, save and compare through time. Know the evolution of your product or service and act. Collect responses and learn what your customers need."
+msgstr "Creați rapoarte, salvați si comparați-le în timp. Aflați evoluția produselor sau serviciilor dvs. si acționați. Colectați răspusuri și întelegiți mai bine ce doresc clienții dvs."
+
+msgid "Work with your team"
+msgstr "Lucrați împreună cu echipa"
+
+msgid "Invite the whole team to join you and analyze everything together. All members of your team can create their own reports, and share them with other members of the team."
+msgstr "Invitați-vă echipa să vi se alăture și lucrați împreună. Toți membri echipei dvs. pot creea propriile rapoarte."
+
+msgid "Free, no credit card required"
+msgstr "Gratuit, fară card de credit"
+
+msgid "Our services are absolutely free and you can start immediately without any credit card required. No trial version so you can upgrade when you want and only if you need."
+msgstr "Serviciile noastre sunt absolut gratuite, puteți începe imediat fără a vi se cere un card de credit. Nu există perioadă de probă, deci puteți să vă upgradați contul când doriți și doar dacă aveți nevoie."
+
+msgid "Amazing tools, no restrictions"
+msgstr "Unelte uimitoare, fără restricții"
+
+msgid "All question types are free to use. No restrictions. Join us today and start with a free account without any restrictions.  Collect responses free from your sources."
+msgstr "Toate tipurile de întrebări pot fi folosite grauit. Fară restricții. Alăturați-vă astăzi și începeți cu un cont gratuit fără niciun fel de restricție. Colectați răspunsuri gratuit de la suresele dvs."
+
+msgid "With the team is easier"
+msgstr "Cu echipa e mai ușor"
+
+msgid "Your team, your account! All surveys are associated with your account, so you don"
+msgstr "Echipa dvs., contul dvs.! Toate sondajele sunt asociate cu contul dvs., deci nu trebuie să plătiți pentru fiecare membru al echipei în parte. Contul dvs. este tot ce trebuie pentru echipă."
+
+msgid "Keep in touch"
+msgstr "Țineți legătura ușor"
+
+msgid "Each member of your team can create their own reports. They can share the reports with one member of the team or with everyone. In-app chat with your team."
+msgstr "Fiecare membru al echipei poate crea rapoarte. Aceștia pot trimite raportele unui membru al echipei sau chiar întregii echipe. Chat direct în aplicație."
+
+msgid "Work offline?"
+msgstr "Lucrați offline?"
+
+msgid "Of course you can use your online research to the office. Print a report, print a comparison between reports, and analyze with your team offline"
+msgstr "Desigur că puteți folosi cercetările dvs. din online și la birou. Printați un raport, printați o comparație între rapoarte și analizați cu echipa dvs."
+
+msgid "Create amazing surveys"
+msgstr "Creați sondaje uimitoare"
+
+msgid "Sign up today and start your first survey with absolutely no charges. No credit card required."
+msgstr "Înregistrați-vă și începeți cu primul dvs. sondaj fară niciun cost. Nu este necesar un card de credit."
+
+msgid "Join today"
+msgstr "Aăturați-vă acum"
+
+msgid "Respond and make real money"
+msgstr "Răspundeți și faceți bani reali"
+
+msgid "Respond to surveys and get commissions. Real money and/or loyalty points."
+msgstr "Răspundeți la sondaje și obține-ți comisioane. Faceți bani reali și/sau puncte de loialitate."
+
+msgid "Prev"
+msgstr "Anterior"
+
+msgid "Next"
+msgstr "Următor"
+
+msgid "Frequently asked questions"
+msgstr "Întrebări frecvente"
+
+msgid "Plans for you"
+msgstr "Planuri pentru dvs."
+
+msgid "%s%% OFF"
+msgstr "%s%% REDUS"
+
+msgid "/ mo."
+msgstr "/ lu."
+
+msgid "<strong>%s</strong> surveys"
+msgstr "<strong>%s</strong> sondaje"
+
+msgid "unlimited"
+msgstr "nelimitat"
+
+msgid "<strong>%s</strong> responses per survey"
+msgstr "<strong>%s</strong> răspunsuri per sondaj"
+
+msgid "<strong>%s</strong> questions"
+msgstr "<strong>%s</strong> întrebări"
+
+msgid "<strong>%s</strong> collector"
+msgid_plural "<strong>%s</strong> collectors"
+msgstr[0] "<strong>%s</strong> colector"
+msgstr[1] "<strong>%s</strong> colectoare"
+msgstr[2] ""
+
+msgid "<strong>%s</strong> space"
+msgstr "<strong>%s</strong> spațiu"
+
+msgid "No credit card required"
+msgstr "Nu necesită un card de credit"
+
+msgid "Expires: <strong>%s</strong>"
+msgstr "Expirare: <strong>%s</strong>"
+
+msgid "Discount available for %s+ month"
+msgid_plural "Discount available for %s+ months"
+msgstr[0] "Reducere disponibilă pentru %s+ luni"
+msgstr[1] "Reducere disponibilă pentru %s+ luni"
+msgstr[2] ""
+
+msgid "Price without discount: %s"
+msgstr "Preț fără discount: %s"
+
+msgid "Plans for teams"
+msgstr "Planuri pentru echipe"
+
+msgid "<strong>%s</strong> team members"
+msgstr "<strong>%s</strong> membri echipă"
+
+msgid "Respond and make money"
+msgstr "Răspundeți și faceți bani"
+
+msgid "Respond to surveys and make money, it is simple as that. You can also gain loyalty points and exchange them for nice gifts in the loyalty rewards shop."
+msgstr "Răspundeți la sondaje și faceți bani, este simplu. Puteți acumula puncte de loialitate pe care pe puteți schimba în magazinul punctelor de loialitate cu cadouri."
+
+msgid "When you want, how you want"
+msgstr "Când vreți, cum vreți"
+
+msgid "Respond to surveys when you want on any device. Just visit our website, sign in and that is all. You choose the surveys you want to respond. Easy!"
+msgstr "Răspundeți la sondaje când doriți de pe orice dispozitiv doriți. Doar vizitați website-ul nostru, logați-vă si asta e tot. Puteți alege la ce sondaje să răspundeți."
+
+msgid "Invite friends, get loyalty points"
+msgstr "Invitați-vă prietenii, obțineți puncte de loialitate"
+
+msgid "Our website is free. If your friends decide to upgrade their accounts, you get points for every month they purchase. You also get points when they register and verify their accounts."
+msgstr "Website-ul nostru este gratuit. Dacă prietenii dvs. decid să-si upgradeze conturile, dvs. obțineți puncte pentru fiecare lună de abonament cumpărată. Obțineți puncte și când se înregistrează și iși verifică conturile."
+
+msgid "Our blog"
+msgstr "Blogul nostru"
+
+msgid "Footer"
+msgstr "Footer"
+
+msgid "Copyright text (%s)"
+msgstr "Copyright text (%s)"
+
+msgid "Get started"
+msgstr "Începeți"
+
+msgid "Call Us:"
+msgstr "Sunați-ne"
+
+msgid "Email Us:"
+msgstr "Email"
+
+msgid "White label"
+msgstr "White label"

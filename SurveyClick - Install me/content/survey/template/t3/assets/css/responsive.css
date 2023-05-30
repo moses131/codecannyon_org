@@ -1,0 +1,201 @@
+@media only screen and (max-width: 810px) {
+    header {
+        background: linear-gradient(90deg, var(--gray), #fff);
+        width: auto;
+        margin: 0 0 15px 0;
+        padding: 15px;
+        box-shadow: 1px 2px 5px var(--border);
+    }
+
+    header .m-links > li > a > span {
+        left: -14px;
+        right: auto;
+    }
+
+    .boxes > li .user-c .image,
+    .chat > li .user-c .image > .avatar,
+    .notif-box > .notif > ul > li > .img {
+        height: 30px;
+        width: 30px;
+    }
+
+    .avatar .noav > span,
+    .notif-box > .notif > ul > li .badge {
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+        font-size: 15px;
+    }
+
+    .chat > li .user-c .image > .avatar.online::after,
+    .avatar.online::after, .inbox .conversations > li.new .avatar::before {
+        height: 8px;
+        width: 8px;
+    }
+
+    .chat > li .user-c .image > .avatar {
+        width: 30px;
+    }
+
+    .headline {
+        height: 60px;
+        font-size: 20px;
+    }
+
+    .popup > .popup-main > .content {
+        height: 100%;
+    }
+
+    .popup .headline + .headline-msg {
+        flex: 1;
+    }
+
+    .popup > .popup-main {
+        max-height: 100%;
+        max-width: 100%;
+    }
+
+    .popup > .remove a {
+        height: 60px;
+        width: 60px;
+        line-height: 60px;
+        font-size: 26px;
+    }
+
+    .notif-box {
+        position: initial;
+    }
+
+    .notif-box > .notif {
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+    }
+
+    .content {
+        width: 100%;
+    }
+
+    .container {
+        width: auto;
+        padding: 0 15px;
+        border-top: 0;
+    }
+
+    .fpage {
+        padding: 0 15px;
+    }
+
+    .terms {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .articles {
+        border-left: 0;
+        border-right: 0;
+    }
+
+    .articles > article {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .articles > article {
+        font-size: 1em;
+    }
+
+    .articles > article > h2 {
+        font-size: 1.2em;
+    }
+
+    .left-nav {
+        position: fixed;
+        left: -330px;
+        height: 100%;
+        background-color: var(--gray);
+        overflow-y: scroll;
+        z-index: 8;
+        padding: 0 15px;
+    }
+
+    .side-opts {
+        margin-bottom: 15px;
+    }
+
+    .nav-dynamic {
+        margin-top: 15px;
+    }
+
+    .boxes {
+        margin-bottom: 15px;
+    }
+
+    .boxes > li:not(:last-child) {
+        margin-bottom: 15px;
+    }
+
+    .prof-b > div.av .avatar {
+        width: 30px;
+        height: 30px;
+    }
+
+    .prof-b > div.av {
+        width: 45px;
+    }
+
+    .popup .content > .other_form, 
+    .popup .headline-msg {
+        padding: 15px 15px 0 15px;
+    }
+
+    .popup .headline-msg.p30 {
+        padding: 15px;
+    }
+
+    .left-nav {
+        left: -350px;
+        transition: all .2s ease-in-out;
+    }
+
+    .left-nav.fixed {
+        top: 0;
+        height: 100%;
+    }
+
+    .buttons > li > a > span > span.tmsg > span:first-child {
+        display: none;
+    }
+
+    .mob {
+        display: flex;
+    }
+
+    body.sb-o .left-nav {
+        left: 0;
+    }
+
+    body.sb-o {
+        overflow: hidden!important;
+    }
+
+    body.sb-o:after {
+        visibility: visible;
+        background-color:rgba(0,0,0,.2);
+    }
+
+    .text-hero {
+        min-height: 260px;
+    }
+
+    .text-hero > div {
+        font-size: 24px;
+    }
+
+    .add_survey_form {
+        width: 100%;
+        border-left: 0;
+        border-right: 0;
+    }
+}

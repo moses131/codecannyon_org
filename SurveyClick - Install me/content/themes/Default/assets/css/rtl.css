@@ -1,0 +1,58 @@
+* {
+    direction: rtl;
+    text-align: right;
+}
+
+.menu .aic {
+    margin-left: 0;
+    margin-right: 10px;
+}
+
+.menu-container .menu-links {
+    margin-left: 0;
+    margin-right: auto;
+}
+
+.menu-container ul.menu + div {
+    margin-left: 0;
+    margin-right: 60px;
+}
+
+.tc,
+.tc *,
+.title, 
+.cta2, 
+.cta-box,
+.cta-box > *,
+.c404 * {
+    text-align: center!important;
+}
+
+.hero .btn:hover > i {
+    margin-left: 0;
+    margin-right: 15px;
+}
+
+.tabs > li h2 > span {
+    margin-left: 20px;
+    margin-right: 0;
+}
+
+.menu-container ul.menu li > ul {
+   left: auto;
+   right: calc(50% - 90px); 
+}
+
+@media only screen and (max-width: 1007px) {
+    .mmenu {
+        margin: auto auto auto 0;
+    }
+
+    body.mmactive .menu-container ul.menu * {
+        text-align: center!important;
+    }
+
+    .menu-container ul.menu li.item-active > ul * {
+        text-align: right!important;
+    }
+}

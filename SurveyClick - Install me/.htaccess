@@ -1,0 +1,16 @@
+# Follow symbolic links in this directory.
+Options +FollowSymLinks
+IndexOptions +Charset=UTF-8
+AddDefaultCharset UTF-8
+
+<IfModule mod_rewrite.c>
+
+## Turn on rewrite engine
+RewriteEngine on
+
+## Rewrite rules
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^((.*\/?)+)(\.*)?$ index.php?path=$1 [QSA,L]
+
+</IfModule>
